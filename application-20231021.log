@@ -1,0 +1,2027 @@
+2023-10-21 00:14:29.068 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 00:14:32.683 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 00:14:32.758 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 00:14:32.888 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 00:14:34.469 [main] INFO  TestCases.LoginTests - Test Passed
+2023-10-21 00:14:34.474 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 00:14:34.573 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 00:14:34.713 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 00:14:36.198 [main] INFO  TestCases.LoginTests - Test Passed
+2023-10-21 00:14:36.201 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 00:14:36.291 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 00:14:36.439 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 00:14:38.169 [main] INFO  TestCases.LoginTests - Test Passed
+2023-10-21 00:14:38.173 [main] INFO  TestCases.LoginTests - Get All links on login Page
+2023-10-21 00:14:38.234 [main] INFO  TestCases.LoginTests - Get href attributes for links
+2023-10-21 00:14:38.270 [main] INFO  TestCases.LoginTests - https://www.linkedin.com/company/orangehrm/mycompany/
+2023-10-21 00:14:39.036 [main] INFO  TestCases.LoginTests - Request denied
+2023-10-21 00:14:39.273 [main] INFO  TestCases.LoginTests - https://www.facebook.com/OrangeHRM/
+2023-10-21 00:14:39.553 [main] INFO  TestCases.LoginTests - OK
+2023-10-21 00:14:39.809 [main] INFO  TestCases.LoginTests - https://twitter.com/orangehrm?lang=en
+2023-10-21 00:14:40.011 [main] INFO  TestCases.LoginTests - OK
+2023-10-21 00:14:40.192 [main] INFO  TestCases.LoginTests - https://www.youtube.com/c/OrangeHRMInc
+2023-10-21 00:14:40.660 [main] INFO  TestCases.LoginTests - OK
+2023-10-21 00:14:40.862 [main] INFO  TestCases.LoginTests - http://www.orangehrm.com/
+2023-10-21 00:14:41.258 [main] INFO  TestCases.LoginTests - Moved Permanently
+2023-10-21 00:14:41.833 [main] INFO  TestCases.LoginTests - null
+2023-10-21 00:14:41.834 [main] ERROR TestCases.LoginTests - Cannot invoke "String.length()" because "spec" is null
+2023-10-21 00:14:41.856 [main] INFO  TestCases.LoginTests - null
+2023-10-21 00:14:41.856 [main] ERROR TestCases.LoginTests - Cannot invoke "String.length()" because "spec" is null
+2023-10-21 00:14:41.875 [main] INFO  TestCases.LoginTests - null
+2023-10-21 00:14:41.876 [main] ERROR TestCases.LoginTests - Cannot invoke "String.length()" because "spec" is null
+2023-10-21 00:14:41.879 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 00:14:41.966 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 00:14:42.100 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 00:14:43.424 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 00:14:45.540 [main] INFO  TestCases.LoginTests - Click Add Button
+2023-10-21 00:14:46.577 [main] INFO  TestCases.LoginTests - Switch to Reset password Page
+2023-10-21 00:15:23.085 [main] INFO  TestCases.LoginTests - User added above should appear in search
+2023-10-21 00:15:23.085 [main] INFO  TestCases.LoginTests - Send Username
+2023-10-21 00:15:23.223 [main] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 00:15:23.299 [main] INFO  TestCases.LoginTests - Semding partial text and selecting
+2023-10-21 00:15:28.518 [main] INFO  TestCases.LoginTests - Select status to enabled
+2023-10-21 00:15:28.673 [main] INFO  TestCases.LoginTests - Click search button
+2023-10-21 00:15:29.363 [main] INFO  TestCases.LoginTests - Click Reset
+2023-10-21 00:15:29.504 [main] INFO  TestCases.LoginTests - Validate all fields got empty
+2023-10-21 00:15:29.673 [main] INFO  TestCases.LoginTests - Select the record that needs to be deleted found from above search record
+2023-10-21 00:15:30.152 [main] INFO  TestCases.LoginTests - click the delete button on the selected checkbox
+2023-10-21 00:15:30.231 [main] INFO  TestCases.LoginTests - Validate that record got deleted by performing search again- it shouldn't come in search again
+2023-10-21 00:15:30.231 [main] INFO  TestCases.LoginTests - Send Username
+2023-10-21 00:15:30.359 [main] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 00:23:58.186 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 00:24:01.263 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 00:24:01.330 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 00:24:01.418 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 00:24:02.872 [main] INFO  TestCases.LoginTests - Test Passed
+2023-10-21 00:24:02.874 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 00:24:02.916 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 00:24:02.975 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 00:24:04.370 [main] INFO  TestCases.LoginTests - Test Passed
+2023-10-21 00:24:04.370 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 00:24:04.404 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 00:24:04.466 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 00:24:06.170 [main] INFO  TestCases.LoginTests - Test Passed
+2023-10-21 00:24:06.173 [main] INFO  TestCases.LoginTests - Get All links on login Page
+2023-10-21 00:24:06.202 [main] INFO  TestCases.LoginTests - Get href attributes for links
+2023-10-21 00:24:06.216 [main] INFO  TestCases.LoginTests - https://www.linkedin.com/company/orangehrm/mycompany/
+2023-10-21 00:24:06.580 [main] INFO  TestCases.LoginTests - Request denied
+2023-10-21 00:24:07.174 [main] INFO  TestCases.LoginTests - https://www.facebook.com/OrangeHRM/
+2023-10-21 00:24:07.429 [main] INFO  TestCases.LoginTests - OK
+2023-10-21 00:24:07.690 [main] INFO  TestCases.LoginTests - https://twitter.com/orangehrm?lang=en
+2023-10-21 00:24:07.910 [main] INFO  TestCases.LoginTests - OK
+2023-10-21 00:24:08.097 [main] INFO  TestCases.LoginTests - https://www.youtube.com/c/OrangeHRMInc
+2023-10-21 00:24:08.378 [main] INFO  TestCases.LoginTests - OK
+2023-10-21 00:24:08.569 [main] INFO  TestCases.LoginTests - http://www.orangehrm.com/
+2023-10-21 00:24:08.845 [main] INFO  TestCases.LoginTests - Moved Permanently
+2023-10-21 00:24:09.416 [main] INFO  TestCases.LoginTests - null
+2023-10-21 00:24:09.416 [main] ERROR TestCases.LoginTests - Cannot invoke "String.length()" because "spec" is null
+2023-10-21 00:24:09.426 [main] INFO  TestCases.LoginTests - null
+2023-10-21 00:24:09.426 [main] ERROR TestCases.LoginTests - Cannot invoke "String.length()" because "spec" is null
+2023-10-21 00:24:09.435 [main] INFO  TestCases.LoginTests - null
+2023-10-21 00:24:09.436 [main] ERROR TestCases.LoginTests - Cannot invoke "String.length()" because "spec" is null
+2023-10-21 00:24:09.437 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 00:24:09.473 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 00:24:09.541 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 00:24:10.804 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 00:24:13.040 [main] INFO  TestCases.LoginTests - Click Add Button
+2023-10-21 00:24:14.098 [main] INFO  TestCases.LoginTests - Switch to Reset password Page
+2023-10-21 00:25:33.103 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 00:25:37.835 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 00:25:37.971 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 00:25:38.085 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 00:25:39.686 [main] INFO  TestCases.LoginTests - Test Passed
+2023-10-21 00:25:39.692 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 00:25:39.796 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 00:25:39.911 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 00:25:41.384 [main] INFO  TestCases.LoginTests - Test Passed
+2023-10-21 00:25:41.387 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 00:25:41.464 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 00:25:41.586 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 00:25:43.468 [main] INFO  TestCases.LoginTests - Test Passed
+2023-10-21 00:25:43.473 [main] INFO  TestCases.LoginTests - Get All links on login Page
+2023-10-21 00:25:43.539 [main] INFO  TestCases.LoginTests - Get href attributes for links
+2023-10-21 00:25:43.566 [main] INFO  TestCases.LoginTests - https://www.linkedin.com/company/orangehrm/mycompany/
+2023-10-21 00:25:44.310 [main] INFO  TestCases.LoginTests - Request denied
+2023-10-21 00:25:44.604 [main] INFO  TestCases.LoginTests - https://www.facebook.com/OrangeHRM/
+2023-10-21 00:25:44.877 [main] INFO  TestCases.LoginTests - OK
+2023-10-21 00:25:45.123 [main] INFO  TestCases.LoginTests - https://twitter.com/orangehrm?lang=en
+2023-10-21 00:25:45.307 [main] INFO  TestCases.LoginTests - OK
+2023-10-21 00:25:45.493 [main] INFO  TestCases.LoginTests - https://www.youtube.com/c/OrangeHRMInc
+2023-10-21 00:25:45.937 [main] INFO  TestCases.LoginTests - OK
+2023-10-21 00:25:46.129 [main] INFO  TestCases.LoginTests - http://www.orangehrm.com/
+2023-10-21 00:25:46.307 [main] INFO  TestCases.LoginTests - Moved Permanently
+2023-10-21 00:25:46.904 [main] INFO  TestCases.LoginTests - null
+2023-10-21 00:25:46.905 [main] ERROR TestCases.LoginTests - Cannot invoke "String.length()" because "spec" is null
+2023-10-21 00:25:46.935 [main] INFO  TestCases.LoginTests - null
+2023-10-21 00:25:46.936 [main] ERROR TestCases.LoginTests - Cannot invoke "String.length()" because "spec" is null
+2023-10-21 00:25:46.956 [main] INFO  TestCases.LoginTests - null
+2023-10-21 00:25:46.956 [main] ERROR TestCases.LoginTests - Cannot invoke "String.length()" because "spec" is null
+2023-10-21 00:25:46.960 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 00:25:47.061 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 00:25:47.149 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 00:25:48.363 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 00:25:50.156 [main] INFO  TestCases.LoginTests - Click Add Button
+2023-10-21 00:25:51.215 [main] INFO  TestCases.LoginTests - Switch to Reset password Page
+2023-10-21 00:26:27.454 [main] INFO  TestCases.LoginTests - User added above should appear in search
+2023-10-21 00:26:27.454 [main] INFO  TestCases.LoginTests - Send Username
+2023-10-21 00:26:27.541 [main] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 00:26:27.616 [main] INFO  TestCases.LoginTests - Semding partial text and selecting
+2023-10-21 00:26:32.848 [main] INFO  TestCases.LoginTests - Select status to enabled
+2023-10-21 00:26:32.939 [main] INFO  TestCases.LoginTests - Click search button
+2023-10-21 00:26:33.617 [main] INFO  TestCases.LoginTests - Click Reset
+2023-10-21 00:26:33.706 [main] INFO  TestCases.LoginTests - Validate all fields got empty
+2023-10-21 00:26:33.867 [main] INFO  TestCases.LoginTests - Select the record that needs to be deleted found from above search record
+2023-10-21 00:26:34.351 [main] INFO  TestCases.LoginTests - click the delete button on the selected checkbox
+2023-10-21 00:38:08.777 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 00:38:12.432 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 00:38:12.511 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 00:38:12.636 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 00:38:14.268 [main] INFO  TestCases.LoginTests - Test Passed
+2023-10-21 00:38:14.273 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 00:38:14.350 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 00:38:14.495 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 00:38:15.991 [main] INFO  TestCases.LoginTests - Test Passed
+2023-10-21 00:38:15.994 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 00:38:16.083 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 00:38:16.176 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 00:38:17.858 [main] INFO  TestCases.LoginTests - Test Passed
+2023-10-21 00:38:17.864 [main] INFO  TestCases.LoginTests - Get All links on login Page
+2023-10-21 00:38:17.928 [main] INFO  TestCases.LoginTests - Get href attributes for links
+2023-10-21 00:38:17.959 [main] INFO  TestCases.LoginTests - https://www.linkedin.com/company/orangehrm/mycompany/
+2023-10-21 00:38:18.960 [main] INFO  TestCases.LoginTests - Request denied
+2023-10-21 00:38:19.809 [main] INFO  TestCases.LoginTests - https://www.facebook.com/OrangeHRM/
+2023-10-21 00:38:20.211 [main] INFO  TestCases.LoginTests - OK
+2023-10-21 00:38:20.470 [main] INFO  TestCases.LoginTests - https://twitter.com/orangehrm?lang=en
+2023-10-21 00:38:20.689 [main] INFO  TestCases.LoginTests - OK
+2023-10-21 00:38:20.877 [main] INFO  TestCases.LoginTests - https://www.youtube.com/c/OrangeHRMInc
+2023-10-21 00:38:21.339 [main] INFO  TestCases.LoginTests - OK
+2023-10-21 00:38:21.570 [main] INFO  TestCases.LoginTests - http://www.orangehrm.com/
+2023-10-21 00:38:21.887 [main] INFO  TestCases.LoginTests - Moved Permanently
+2023-10-21 00:38:22.465 [main] INFO  TestCases.LoginTests - null
+2023-10-21 00:38:22.466 [main] ERROR TestCases.LoginTests - Cannot invoke "String.length()" because "spec" is null
+2023-10-21 00:38:22.488 [main] INFO  TestCases.LoginTests - null
+2023-10-21 00:38:22.489 [main] ERROR TestCases.LoginTests - Cannot invoke "String.length()" because "spec" is null
+2023-10-21 00:38:22.512 [main] INFO  TestCases.LoginTests - null
+2023-10-21 00:38:22.512 [main] ERROR TestCases.LoginTests - Cannot invoke "String.length()" because "spec" is null
+2023-10-21 00:38:22.516 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 00:38:22.627 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 00:38:22.755 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 00:38:23.846 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 00:38:25.419 [main] INFO  TestCases.LoginTests - Click Add Button
+2023-10-21 00:38:26.359 [main] INFO  TestCases.LoginTests - Switch to Reset password Page
+2023-10-21 00:38:42.441 [main] INFO  TestCases.LoginTests - Click Reset
+2023-10-21 00:38:42.467 [main] INFO  TestCases.LoginTests - Select the record that needs to be deleted found from above search record
+2023-10-21 00:39:25.564 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 00:39:28.972 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 00:39:29.072 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 00:39:29.217 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 00:39:30.708 [main] INFO  TestCases.LoginTests - Test Passed
+2023-10-21 00:39:30.710 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 00:39:30.783 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 00:39:30.876 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 00:39:32.215 [main] INFO  TestCases.LoginTests - Test Passed
+2023-10-21 00:39:32.217 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 00:39:32.270 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 00:39:32.398 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 00:39:34.055 [main] INFO  TestCases.LoginTests - Test Passed
+2023-10-21 00:39:34.058 [main] INFO  TestCases.LoginTests - Get All links on login Page
+2023-10-21 00:39:34.099 [main] INFO  TestCases.LoginTests - Get href attributes for links
+2023-10-21 00:39:34.117 [main] INFO  TestCases.LoginTests - https://www.linkedin.com/company/orangehrm/mycompany/
+2023-10-21 00:39:34.518 [main] INFO  TestCases.LoginTests - Request denied
+2023-10-21 00:39:34.802 [main] INFO  TestCases.LoginTests - https://www.facebook.com/OrangeHRM/
+2023-10-21 00:39:35.058 [main] INFO  TestCases.LoginTests - OK
+2023-10-21 00:39:35.281 [main] INFO  TestCases.LoginTests - https://twitter.com/orangehrm?lang=en
+2023-10-21 00:39:35.474 [main] INFO  TestCases.LoginTests - OK
+2023-10-21 00:39:35.693 [main] INFO  TestCases.LoginTests - https://www.youtube.com/c/OrangeHRMInc
+2023-10-21 00:39:36.168 [main] INFO  TestCases.LoginTests - OK
+2023-10-21 00:39:36.393 [main] INFO  TestCases.LoginTests - http://www.orangehrm.com/
+2023-10-21 00:39:36.575 [main] INFO  TestCases.LoginTests - Moved Permanently
+2023-10-21 00:39:37.134 [main] INFO  TestCases.LoginTests - null
+2023-10-21 00:39:37.135 [main] ERROR TestCases.LoginTests - Cannot invoke "String.length()" because "spec" is null
+2023-10-21 00:39:37.151 [main] INFO  TestCases.LoginTests - null
+2023-10-21 00:39:37.151 [main] ERROR TestCases.LoginTests - Cannot invoke "String.length()" because "spec" is null
+2023-10-21 00:39:37.164 [main] INFO  TestCases.LoginTests - null
+2023-10-21 00:39:37.164 [main] ERROR TestCases.LoginTests - Cannot invoke "String.length()" because "spec" is null
+2023-10-21 00:39:37.166 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 00:39:37.219 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 00:39:37.296 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 00:39:38.509 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 00:39:40.226 [main] INFO  TestCases.LoginTests - Click Add Button
+2023-10-21 00:39:41.276 [main] INFO  TestCases.LoginTests - Switch to Reset password Page
+2023-10-21 00:40:17.564 [main] INFO  TestCases.LoginTests - User added above should appear in search
+2023-10-21 00:40:17.564 [main] INFO  TestCases.LoginTests - Send Username
+2023-10-21 00:40:17.712 [main] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 00:40:17.829 [main] INFO  TestCases.LoginTests - Semding partial text and selecting
+2023-10-21 00:40:23.049 [main] INFO  TestCases.LoginTests - Select status to enabled
+2023-10-21 00:40:23.222 [main] INFO  TestCases.LoginTests - Click search button
+2023-10-21 00:40:23.907 [main] INFO  TestCases.LoginTests - Click Reset
+2023-10-21 00:40:24.017 [main] INFO  TestCases.LoginTests - Validate all fields got empty
+2023-10-21 00:40:24.180 [main] INFO  TestCases.LoginTests - Select the record that needs to be deleted found from above search record
+2023-10-21 00:40:24.674 [main] INFO  TestCases.LoginTests - click the delete button on the selected checkbox
+2023-10-21 00:40:24.891 [main] INFO  TestCases.LoginTests - Validate that record got deleted by performing search again- it shouldn't come in search again
+2023-10-21 00:40:24.891 [main] INFO  TestCases.LoginTests - Send Username
+2023-10-21 00:40:24.989 [main] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 00:40:25.089 [main] INFO  TestCases.LoginTests - Semding partial text and selecting
+2023-10-21 00:40:30.285 [main] INFO  TestCases.LoginTests - Select status to enabled
+2023-10-21 00:40:30.369 [main] INFO  TestCases.LoginTests - Click search button
+2023-10-21 00:40:51.956 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 00:40:55.455 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 00:40:55.555 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 00:40:55.649 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 00:40:57.290 [main] INFO  TestCases.LoginTests - Test Passed
+2023-10-21 00:40:57.294 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 00:40:57.400 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 00:40:57.484 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 00:40:58.987 [main] INFO  TestCases.LoginTests - Test Passed
+2023-10-21 00:40:58.989 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 00:40:59.086 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 00:40:59.225 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 00:41:00.982 [main] INFO  TestCases.LoginTests - Test Passed
+2023-10-21 00:41:00.988 [main] INFO  TestCases.LoginTests - Get All links on login Page
+2023-10-21 00:41:01.047 [main] INFO  TestCases.LoginTests - Get href attributes for links
+2023-10-21 00:41:01.073 [main] INFO  TestCases.LoginTests - https://www.linkedin.com/company/orangehrm/mycompany/
+2023-10-21 00:41:01.834 [main] INFO  TestCases.LoginTests - Request denied
+2023-10-21 00:41:02.251 [main] INFO  TestCases.LoginTests - https://www.facebook.com/OrangeHRM/
+2023-10-21 00:41:02.547 [main] INFO  TestCases.LoginTests - OK
+2023-10-21 00:41:02.801 [main] INFO  TestCases.LoginTests - https://twitter.com/orangehrm?lang=en
+2023-10-21 00:41:02.977 [main] INFO  TestCases.LoginTests - OK
+2023-10-21 00:41:03.166 [main] INFO  TestCases.LoginTests - https://www.youtube.com/c/OrangeHRMInc
+2023-10-21 00:41:03.635 [main] INFO  TestCases.LoginTests - OK
+2023-10-21 00:41:03.830 [main] INFO  TestCases.LoginTests - http://www.orangehrm.com/
+2023-10-21 00:41:04.002 [main] INFO  TestCases.LoginTests - Moved Permanently
+2023-10-21 00:41:04.565 [main] INFO  TestCases.LoginTests - null
+2023-10-21 00:41:04.567 [main] ERROR TestCases.LoginTests - Cannot invoke "String.length()" because "spec" is null
+2023-10-21 00:41:04.604 [main] INFO  TestCases.LoginTests - null
+2023-10-21 00:41:04.605 [main] ERROR TestCases.LoginTests - Cannot invoke "String.length()" because "spec" is null
+2023-10-21 00:41:04.642 [main] INFO  TestCases.LoginTests - null
+2023-10-21 00:41:04.643 [main] ERROR TestCases.LoginTests - Cannot invoke "String.length()" because "spec" is null
+2023-10-21 00:41:04.649 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 00:41:04.772 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 00:41:04.863 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 00:41:06.311 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 00:41:08.278 [main] INFO  TestCases.LoginTests - Click Add Button
+2023-10-21 00:41:09.494 [main] INFO  TestCases.LoginTests - Switch to Reset password Page
+2023-10-21 00:41:45.801 [main] INFO  TestCases.LoginTests - User added above should appear in search
+2023-10-21 00:41:45.802 [main] INFO  TestCases.LoginTests - Send Username
+2023-10-21 00:41:45.936 [main] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 00:41:46.050 [main] INFO  TestCases.LoginTests - Semding partial text and selecting
+2023-10-21 00:41:51.233 [main] INFO  TestCases.LoginTests - Select status to enabled
+2023-10-21 00:41:51.340 [main] INFO  TestCases.LoginTests - Click search button
+2023-10-21 00:41:52.009 [main] INFO  TestCases.LoginTests - Click Reset
+2023-10-21 00:41:52.127 [main] INFO  TestCases.LoginTests - Validate all fields got empty
+2023-10-21 00:41:52.278 [main] INFO  TestCases.LoginTests - Select the record that needs to be deleted found from above search record
+2023-10-21 00:41:52.690 [main] INFO  TestCases.LoginTests - click the delete button on the selected checkbox
+2023-10-21 00:41:52.882 [main] INFO  TestCases.LoginTests - Validate that record got deleted by performing search again- it shouldn't come in search again
+2023-10-21 00:41:52.882 [main] INFO  TestCases.LoginTests - Send Username
+2023-10-21 00:41:53.027 [main] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 00:41:53.146 [main] INFO  TestCases.LoginTests - Semding partial text and selecting
+2023-10-21 00:41:58.313 [main] INFO  TestCases.LoginTests - Select status to enabled
+2023-10-21 00:41:58.424 [main] INFO  TestCases.LoginTests - Click search button
+2023-10-21 00:46:38.816 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 00:46:42.645 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 00:46:42.738 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 00:46:42.842 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 00:46:44.293 [main] INFO  TestCases.LoginTests - Test Passed
+2023-10-21 00:46:44.296 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 00:46:44.397 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 00:46:44.482 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 00:46:45.944 [main] INFO  TestCases.LoginTests - Test Passed
+2023-10-21 00:46:45.947 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 00:46:46.029 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 00:46:46.152 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 00:46:47.975 [main] INFO  TestCases.LoginTests - Test Passed
+2023-10-21 00:46:47.982 [main] INFO  TestCases.LoginTests - Get All links on login Page
+2023-10-21 00:46:48.042 [main] INFO  TestCases.LoginTests - Get href attributes for links
+2023-10-21 00:46:48.077 [main] INFO  TestCases.LoginTests - https://www.linkedin.com/company/orangehrm/mycompany/
+2023-10-21 00:46:48.844 [main] INFO  TestCases.LoginTests - Request denied
+2023-10-21 00:46:49.114 [main] INFO  TestCases.LoginTests - https://www.facebook.com/OrangeHRM/
+2023-10-21 00:46:49.360 [main] INFO  TestCases.LoginTests - OK
+2023-10-21 00:46:49.644 [main] INFO  TestCases.LoginTests - https://twitter.com/orangehrm?lang=en
+2023-10-21 00:46:49.854 [main] INFO  TestCases.LoginTests - OK
+2023-10-21 00:46:50.043 [main] INFO  TestCases.LoginTests - https://www.youtube.com/c/OrangeHRMInc
+2023-10-21 00:46:50.487 [main] INFO  TestCases.LoginTests - OK
+2023-10-21 00:46:50.663 [main] INFO  TestCases.LoginTests - http://www.orangehrm.com/
+2023-10-21 00:46:51.090 [main] INFO  TestCases.LoginTests - Moved Permanently
+2023-10-21 00:46:51.683 [main] INFO  TestCases.LoginTests - null
+2023-10-21 00:46:51.684 [main] ERROR TestCases.LoginTests - Cannot invoke "String.length()" because "spec" is null
+2023-10-21 00:46:51.707 [main] INFO  TestCases.LoginTests - null
+2023-10-21 00:46:51.707 [main] ERROR TestCases.LoginTests - Cannot invoke "String.length()" because "spec" is null
+2023-10-21 00:46:51.731 [main] INFO  TestCases.LoginTests - null
+2023-10-21 00:46:51.732 [main] ERROR TestCases.LoginTests - Cannot invoke "String.length()" because "spec" is null
+2023-10-21 00:46:51.736 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 00:46:51.817 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 00:46:51.915 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 00:46:53.292 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 00:46:55.030 [main] INFO  TestCases.LoginTests - Click Add Button
+2023-10-21 00:46:56.004 [main] INFO  TestCases.LoginTests - Switch to Reset password Page
+2023-10-21 00:47:32.340 [main] INFO  TestCases.LoginTests - User added above should appear in search
+2023-10-21 00:47:32.341 [main] INFO  TestCases.LoginTests - Send Username
+2023-10-21 00:47:32.562 [main] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 00:47:32.677 [main] INFO  TestCases.LoginTests - Semding partial text and selecting
+2023-10-21 00:47:37.891 [main] INFO  TestCases.LoginTests - Select status to enabled
+2023-10-21 00:47:38.064 [main] INFO  TestCases.LoginTests - Click search button
+2023-10-21 00:47:38.789 [main] INFO  TestCases.LoginTests - Click Reset
+2023-10-21 00:47:38.904 [main] INFO  TestCases.LoginTests - Validate all fields got empty
+2023-10-21 00:47:39.045 [main] INFO  TestCases.LoginTests - Select the record that needs to be deleted found from above search record
+2023-10-21 00:47:39.497 [main] INFO  TestCases.LoginTests - click the delete button on the selected checkbox
+2023-10-21 00:47:39.721 [main] INFO  TestCases.LoginTests - Validate that record got deleted by performing search again- it shouldn't come in search again
+2023-10-21 00:47:39.721 [main] INFO  TestCases.LoginTests - Send Username
+2023-10-21 00:47:39.826 [main] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 00:47:39.922 [main] INFO  TestCases.LoginTests - Semding partial text and selecting
+2023-10-21 00:47:45.143 [main] INFO  TestCases.LoginTests - Select status to enabled
+2023-10-21 00:47:45.255 [main] INFO  TestCases.LoginTests - Click search button
+2023-10-21 02:29:43.948 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 02:29:47.079 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 02:29:47.143 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 02:29:47.228 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 02:29:48.636 [main] INFO  TestCases.LoginTests - Test Passed
+2023-10-21 02:29:48.638 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 02:29:48.676 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 02:29:48.739 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 02:29:50.126 [main] INFO  TestCases.LoginTests - Test Passed
+2023-10-21 02:29:50.127 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 02:29:50.168 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 02:29:50.251 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 02:29:51.987 [main] INFO  TestCases.LoginTests - Test Passed
+2023-10-21 02:29:51.990 [main] INFO  TestCases.LoginTests - Get All links on login Page
+2023-10-21 02:29:52.019 [main] INFO  TestCases.LoginTests - Get href attributes for links
+2023-10-21 02:29:52.033 [main] INFO  TestCases.LoginTests - https://www.linkedin.com/company/orangehrm/mycompany/
+2023-10-21 02:29:52.405 [main] INFO  TestCases.LoginTests - Request denied
+2023-10-21 02:29:52.673 [main] INFO  TestCases.LoginTests - https://www.facebook.com/OrangeHRM/
+2023-10-21 02:29:52.925 [main] INFO  TestCases.LoginTests - OK
+2023-10-21 02:29:53.141 [main] INFO  TestCases.LoginTests - https://twitter.com/orangehrm?lang=en
+2023-10-21 02:29:53.310 [main] INFO  TestCases.LoginTests - OK
+2023-10-21 02:29:53.511 [main] INFO  TestCases.LoginTests - https://www.youtube.com/c/OrangeHRMInc
+2023-10-21 02:29:53.781 [main] INFO  TestCases.LoginTests - OK
+2023-10-21 02:29:54.020 [main] INFO  TestCases.LoginTests - http://www.orangehrm.com/
+2023-10-21 02:29:54.432 [main] INFO  TestCases.LoginTests - Moved Permanently
+2023-10-21 02:29:54.997 [main] INFO  TestCases.LoginTests - null
+2023-10-21 02:29:54.997 [main] ERROR TestCases.LoginTests - Cannot invoke "String.length()" because "spec" is null
+2023-10-21 02:29:55.008 [main] INFO  TestCases.LoginTests - null
+2023-10-21 02:29:55.008 [main] ERROR TestCases.LoginTests - Cannot invoke "String.length()" because "spec" is null
+2023-10-21 02:29:55.017 [main] INFO  TestCases.LoginTests - null
+2023-10-21 02:29:55.018 [main] ERROR TestCases.LoginTests - Cannot invoke "String.length()" because "spec" is null
+2023-10-21 02:29:55.019 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 02:29:55.053 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 02:29:55.111 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 02:29:56.116 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 02:29:57.768 [main] INFO  TestCases.LoginTests - Click Add Button
+2023-10-21 02:29:58.627 [main] INFO  TestCases.LoginTests - Switch to Add UserPage
+2023-10-21 02:30:34.533 [main] INFO  TestCases.LoginTests - User added above should appear in search
+2023-10-21 02:30:34.533 [main] INFO  TestCases.LoginTests - Send Username
+2023-10-21 02:30:34.600 [main] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 02:30:34.648 [main] INFO  TestCases.LoginTests - Semding partial text and selecting
+2023-10-21 02:30:39.748 [main] INFO  TestCases.LoginTests - Select status to enabled
+2023-10-21 02:30:39.804 [main] INFO  TestCases.LoginTests - Click search button
+2023-10-21 02:30:40.420 [main] INFO  TestCases.LoginTests - Click Reset
+2023-10-21 02:30:40.468 [main] INFO  TestCases.LoginTests - Validate all fields got empty
+2023-10-21 02:30:40.544 [main] INFO  TestCases.LoginTests - Select the record that needs to be deleted found from above search record
+2023-10-21 02:30:41.020 [main] INFO  TestCases.LoginTests - click the delete button on the selected checkbox
+2023-10-21 02:30:41.134 [main] INFO  TestCases.LoginTests - Validate that record got deleted by performing search again- it shouldn't come in search again
+2023-10-21 02:30:41.134 [main] INFO  TestCases.LoginTests - Send Username
+2023-10-21 02:30:41.192 [main] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 02:30:41.240 [main] INFO  TestCases.LoginTests - Semding partial text and selecting
+2023-10-21 02:30:46.331 [main] INFO  TestCases.LoginTests - Select status to enabled
+2023-10-21 02:30:46.376 [main] INFO  TestCases.LoginTests - Click search button
+2023-10-21 02:32:09.663 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 02:32:12.804 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 02:32:12.865 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 02:32:12.942 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 02:32:14.432 [main] INFO  TestCases.LoginTests - Test Passed
+2023-10-21 02:32:14.434 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 02:32:14.478 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 02:32:14.540 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 02:32:15.989 [main] INFO  TestCases.LoginTests - Test Passed
+2023-10-21 02:32:15.990 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 02:32:16.024 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 02:32:16.090 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 02:32:17.702 [main] INFO  TestCases.LoginTests - Test Passed
+2023-10-21 02:32:17.704 [main] INFO  TestCases.LoginTests - Get All links on login Page
+2023-10-21 02:32:17.734 [main] INFO  TestCases.LoginTests - Get href attributes for links
+2023-10-21 02:32:17.749 [main] INFO  TestCases.LoginTests - https://www.linkedin.com/company/orangehrm/mycompany/
+2023-10-21 02:32:18.080 [main] INFO  TestCases.LoginTests - Request denied
+2023-10-21 02:32:18.541 [main] INFO  TestCases.LoginTests - https://www.facebook.com/OrangeHRM/
+2023-10-21 02:32:18.777 [main] INFO  TestCases.LoginTests - OK
+2023-10-21 02:32:19.008 [main] INFO  TestCases.LoginTests - https://twitter.com/orangehrm?lang=en
+2023-10-21 02:32:19.167 [main] INFO  TestCases.LoginTests - OK
+2023-10-21 02:32:19.337 [main] INFO  TestCases.LoginTests - https://www.youtube.com/c/OrangeHRMInc
+2023-10-21 02:32:19.598 [main] INFO  TestCases.LoginTests - OK
+2023-10-21 02:32:19.790 [main] INFO  TestCases.LoginTests - http://www.orangehrm.com/
+2023-10-21 02:32:19.962 [main] INFO  TestCases.LoginTests - Moved Permanently
+2023-10-21 02:32:20.491 [main] INFO  TestCases.LoginTests - null
+2023-10-21 02:32:20.491 [main] ERROR TestCases.LoginTests - Cannot invoke "String.length()" because "spec" is null
+2023-10-21 02:32:20.501 [main] INFO  TestCases.LoginTests - null
+2023-10-21 02:32:20.502 [main] ERROR TestCases.LoginTests - Cannot invoke "String.length()" because "spec" is null
+2023-10-21 02:32:20.511 [main] INFO  TestCases.LoginTests - null
+2023-10-21 02:32:20.512 [main] ERROR TestCases.LoginTests - Cannot invoke "String.length()" because "spec" is null
+2023-10-21 02:32:20.513 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 02:32:20.548 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 02:32:20.609 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 02:32:21.673 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 02:32:23.460 [main] INFO  TestCases.LoginTests - Click Add Button
+2023-10-21 02:32:24.305 [main] INFO  TestCases.LoginTests - Switch to Add UserPage
+2023-10-21 02:33:00.271 [main] INFO  TestCases.LoginTests - User added above should appear in search
+2023-10-21 02:33:00.271 [main] INFO  TestCases.LoginTests - Send Username
+2023-10-21 02:33:00.331 [main] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 02:33:00.377 [main] INFO  TestCases.LoginTests - Semding partial text and selecting
+2023-10-21 02:33:05.473 [main] INFO  TestCases.LoginTests - Select status to enabled
+2023-10-21 02:33:05.516 [main] INFO  TestCases.LoginTests - Click search button
+2023-10-21 02:33:06.175 [main] INFO  TestCases.LoginTests - Click Reset
+2023-10-21 02:33:06.223 [main] INFO  TestCases.LoginTests - Validate all fields got empty
+2023-10-21 02:33:06.298 [main] INFO  TestCases.LoginTests - Select the record that needs to be deleted found from above search record
+2023-10-21 02:33:06.774 [main] INFO  TestCases.LoginTests - click the delete button on the selected checkbox
+2023-10-21 02:33:06.875 [main] INFO  TestCases.LoginTests - Validate that record got deleted by performing search again- it shouldn't come in search again
+2023-10-21 02:33:06.876 [main] INFO  TestCases.LoginTests - Send Username
+2023-10-21 02:33:06.937 [main] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 02:33:06.983 [main] INFO  TestCases.LoginTests - Semding partial text and selecting
+2023-10-21 02:33:12.078 [main] INFO  TestCases.LoginTests - Select status to enabled
+2023-10-21 02:33:12.125 [main] INFO  TestCases.LoginTests - Click search button
+2023-10-21 02:33:22.123 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 02:33:33.752 [main] INFO  TestCases.LoginTests - Validate the above entered values from table record fetched
+2023-10-21 02:35:41.593 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 02:35:45.064 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 02:35:45.142 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 02:35:45.213 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 02:35:46.686 [main] INFO  TestCases.LoginTests - Test Passed
+2023-10-21 02:35:46.690 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 02:35:46.744 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 02:35:46.817 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 02:35:48.122 [main] INFO  TestCases.LoginTests - Test Passed
+2023-10-21 02:35:48.123 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 02:35:48.169 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 02:35:48.259 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 02:35:49.822 [main] INFO  TestCases.LoginTests - Test Passed
+2023-10-21 02:35:49.825 [main] INFO  TestCases.LoginTests - Get All links on login Page
+2023-10-21 02:35:49.855 [main] INFO  TestCases.LoginTests - Get href attributes for links
+2023-10-21 02:35:49.870 [main] INFO  TestCases.LoginTests - https://www.linkedin.com/company/orangehrm/mycompany/
+2023-10-21 02:35:50.311 [main] INFO  TestCases.LoginTests - Request denied
+2023-10-21 02:35:50.655 [main] INFO  TestCases.LoginTests - https://www.facebook.com/OrangeHRM/
+2023-10-21 02:35:50.891 [main] INFO  TestCases.LoginTests - OK
+2023-10-21 02:35:51.127 [main] INFO  TestCases.LoginTests - https://twitter.com/orangehrm?lang=en
+2023-10-21 02:35:51.288 [main] INFO  TestCases.LoginTests - OK
+2023-10-21 02:35:51.456 [main] INFO  TestCases.LoginTests - https://www.youtube.com/c/OrangeHRMInc
+2023-10-21 02:35:51.700 [main] INFO  TestCases.LoginTests - OK
+2023-10-21 02:35:51.909 [main] INFO  TestCases.LoginTests - http://www.orangehrm.com/
+2023-10-21 02:35:52.182 [main] INFO  TestCases.LoginTests - Moved Permanently
+2023-10-21 02:35:52.745 [main] INFO  TestCases.LoginTests - null
+2023-10-21 02:35:52.746 [main] ERROR TestCases.LoginTests - Cannot invoke "String.length()" because "spec" is null
+2023-10-21 02:35:52.761 [main] INFO  TestCases.LoginTests - null
+2023-10-21 02:35:52.761 [main] ERROR TestCases.LoginTests - Cannot invoke "String.length()" because "spec" is null
+2023-10-21 02:35:52.773 [main] INFO  TestCases.LoginTests - null
+2023-10-21 02:35:52.773 [main] ERROR TestCases.LoginTests - Cannot invoke "String.length()" because "spec" is null
+2023-10-21 02:35:52.774 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 02:35:52.817 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 02:35:52.894 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 02:35:53.968 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 02:35:55.620 [main] INFO  TestCases.LoginTests - Click Add Button
+2023-10-21 02:35:56.527 [main] INFO  TestCases.LoginTests - Switch to Add UserPage
+2023-10-21 02:36:32.411 [main] INFO  TestCases.LoginTests - User added above should appear in search
+2023-10-21 02:36:32.412 [main] INFO  TestCases.LoginTests - Send Username
+2023-10-21 02:36:32.505 [main] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 02:36:32.553 [main] INFO  TestCases.LoginTests - Semding partial text and selecting
+2023-10-21 02:36:37.638 [main] INFO  TestCases.LoginTests - Select status to enabled
+2023-10-21 02:36:37.684 [main] INFO  TestCases.LoginTests - Click search button
+2023-10-21 02:36:38.387 [main] INFO  TestCases.LoginTests - Click Reset
+2023-10-21 02:36:38.437 [main] INFO  TestCases.LoginTests - Validate all fields got empty
+2023-10-21 02:36:38.509 [main] INFO  TestCases.LoginTests - Select the record that needs to be deleted found from above search record
+2023-10-21 02:36:38.982 [main] INFO  TestCases.LoginTests - click the delete button on the selected checkbox
+2023-10-21 02:36:39.082 [main] INFO  TestCases.LoginTests - Validate that record got deleted by performing search again- it shouldn't come in search again
+2023-10-21 02:36:39.082 [main] INFO  TestCases.LoginTests - Send Username
+2023-10-21 02:36:39.144 [main] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 02:36:39.190 [main] INFO  TestCases.LoginTests - Semding partial text and selecting
+2023-10-21 02:36:44.293 [main] INFO  TestCases.LoginTests - Select status to enabled
+2023-10-21 02:36:44.346 [main] INFO  TestCases.LoginTests - Click search button
+2023-10-21 02:36:54.698 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 02:46:03.670 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 02:46:06.276 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 02:46:06.742 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 02:46:06.824 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 02:46:08.138 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 02:46:09.990 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 02:50:40.402 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 02:50:42.852 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 02:50:43.273 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 02:50:43.349 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 02:50:44.558 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 02:50:46.154 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 02:53:31.440 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 02:53:34.030 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 02:53:34.553 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 02:53:34.626 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 02:53:35.839 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 02:53:55.606 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 02:54:50.242 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 02:54:52.748 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 02:54:53.263 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 02:54:53.336 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 02:54:54.624 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 02:55:01.457 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 03:01:58.423 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 03:02:00.962 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 03:02:01.462 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 03:02:01.541 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 03:02:02.826 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 03:02:05.334 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 03:02:06.070 [main] INFO  TestCases.LoginTests - Validate the above entered values from table record fetched
+2023-10-21 03:07:13.907 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 03:07:16.581 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 03:07:17.053 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 03:07:17.136 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 03:07:18.229 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 03:07:31.454 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 03:08:50.957 [main] INFO  TestCases.LoginTests - Validate the above entered values from table record fetched
+2023-10-21 03:15:19.318 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 03:15:21.934 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 03:15:22.353 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 03:15:22.433 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 03:15:23.651 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 03:15:32.064 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 03:18:33.395 [main] INFO  TestCases.LoginTests - Validate the above entered values from table record fetched
+2023-10-21 03:19:28.271 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 03:19:30.810 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 03:19:31.283 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 03:19:31.366 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 03:19:32.441 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 03:19:34.183 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 03:19:35.174 [main] INFO  TestCases.LoginTests - Validate the above entered values from table record fetched
+2023-10-21 03:22:17.093 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 03:22:19.595 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 03:22:20.064 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 03:22:20.144 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 03:22:21.281 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 03:22:22.697 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 03:22:23.879 [main] INFO  TestCases.LoginTests - Validate the above entered values from table record fetched
+2023-10-21 03:25:41.909 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 03:25:44.586 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 03:25:45.063 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 03:25:45.145 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 03:25:46.280 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 03:25:55.085 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 03:32:00.019 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 03:32:02.534 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 03:32:03.008 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 03:32:03.077 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 03:32:04.455 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 03:32:06.787 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 03:32:07.656 [main] INFO  TestCases.LoginTests - Validate the above entered values from table record fetched
+2023-10-21 03:32:57.696 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 03:33:00.759 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 03:33:01.215 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 03:33:01.309 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 03:33:02.834 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 03:33:05.387 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 03:33:06.856 [main] INFO  TestCases.LoginTests - Validate the above entered values from table record fetched
+2023-10-21 03:35:59.427 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 03:36:02.602 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 03:36:03.056 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 03:36:03.147 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 03:36:04.719 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 03:36:07.035 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 03:36:08.616 [main] INFO  TestCases.LoginTests - Validate the above entered values from table record fetched
+2023-10-21 10:36:44.767 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 10:36:47.359 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 10:36:47.862 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 10:36:47.931 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 10:36:49.050 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 10:36:58.428 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 10:39:05.136 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 10:39:07.755 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 10:39:08.222 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 10:39:08.305 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 10:39:09.534 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 10:39:12.439 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 10:39:13.435 [main] INFO  TestCases.LoginTests - Validate the above entered values from table record fetched
+2023-10-21 10:41:04.855 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 10:41:07.452 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 10:41:07.875 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 10:41:07.951 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 10:41:09.359 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 10:41:16.970 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 10:43:11.493 [main] INFO  TestCases.LoginTests - Validate the above entered values from table record fetched
+2023-10-21 10:46:35.042 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 10:46:37.610 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 10:46:38.088 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 10:46:38.172 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 10:46:39.277 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 10:46:40.779 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 10:46:51.612 [main] INFO  TestCases.LoginTests - Validate the above entered values from table record fetched
+2023-10-21 10:51:02.581 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 10:51:05.098 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 10:51:05.562 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 10:51:05.637 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 10:51:07.047 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 10:51:13.285 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 10:54:36.273 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 10:54:38.960 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 10:54:39.429 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 10:54:39.508 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 10:54:40.974 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 10:54:49.831 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 10:57:27.086 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 10:57:29.662 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 10:57:30.090 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 10:57:30.178 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 10:57:31.450 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 10:57:37.572 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 10:59:03.014 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 10:59:06.019 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 10:59:06.520 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 10:59:06.594 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 10:59:07.871 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 10:59:13.931 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 11:03:56.490 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 11:03:59.159 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 11:03:59.633 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 11:03:59.719 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 11:04:00.974 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 11:04:02.717 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 11:04:03.558 [main] INFO  TestCases.LoginTests - Validate the above entered values from table record fetched
+2023-10-21 11:07:38.825 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 11:07:41.364 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 11:07:41.857 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 11:07:41.939 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 11:07:43.129 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 11:07:44.825 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 11:07:45.660 [main] INFO  TestCases.LoginTests - Validate the above entered values from table record fetched
+2023-10-21 11:08:12.647 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 11:08:15.317 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 11:08:15.850 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 11:08:15.917 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 11:08:17.218 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 11:08:22.467 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 11:14:37.539 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 11:14:40.175 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 11:14:40.675 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 11:14:40.747 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 11:14:41.837 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 11:14:43.232 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 11:14:44.082 [main] INFO  TestCases.LoginTests - Validate the above entered values from table record fetched
+2023-10-21 11:18:42.472 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 11:18:44.947 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 11:18:45.413 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 11:18:45.498 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 11:18:46.595 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 11:18:48.109 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 11:18:48.993 [main] INFO  TestCases.LoginTests - Validate the above entered values from table record fetched
+2023-10-21 11:20:30.962 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 11:20:33.519 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 11:20:33.991 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 11:20:34.068 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 11:20:35.141 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 11:20:40.720 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 11:24:25.422 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 11:24:33.587 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 11:24:34.390 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 11:24:34.463 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 11:24:35.686 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 11:24:41.723 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 11:26:27.665 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 11:26:30.273 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 11:26:30.743 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 11:26:30.819 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 11:26:31.935 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 11:26:33.521 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 11:26:34.429 [main] INFO  TestCases.LoginTests - Validate the above entered values from table record fetched
+2023-10-21 11:27:54.736 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 11:27:57.363 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 11:27:57.776 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 11:27:57.849 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 11:27:59.005 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 11:28:04.309 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 11:29:50.986 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 11:29:53.455 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 11:29:53.932 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 11:29:54.011 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 11:29:55.098 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 11:29:56.624 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 11:29:57.459 [main] INFO  TestCases.LoginTests - Validate the above entered values from table record fetched
+2023-10-21 11:32:50.812 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 11:32:53.264 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 11:32:53.748 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 11:32:53.836 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 11:32:54.962 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 11:32:59.983 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 11:33:31.299 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 11:33:33.789 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 11:33:34.276 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 11:33:34.347 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 11:33:35.457 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 11:33:41.654 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 11:40:44.675 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 11:40:47.199 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 11:40:47.671 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 11:40:47.748 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 11:40:48.795 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 11:40:50.296 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 11:40:51.196 [main] INFO  TestCases.LoginTests - Validate the above entered values from table record fetched
+2023-10-21 11:43:18.772 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 11:43:21.391 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 11:43:21.904 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 11:43:21.971 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 11:43:23.124 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 11:43:28.377 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 11:44:04.895 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 11:44:07.591 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 11:44:08.101 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 11:44:08.174 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 11:44:09.773 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 11:44:14.822 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 11:49:20.153 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 11:49:22.735 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 11:49:29.526 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 11:49:32.016 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 11:49:32.487 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 11:49:32.561 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 11:49:33.659 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 11:49:38.627 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 11:51:37.970 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 11:51:40.527 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 11:51:41.007 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 11:51:41.101 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 11:51:42.175 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 11:51:47.372 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 11:52:29.129 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 11:52:31.604 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 11:52:32.110 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 11:52:32.177 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 11:52:33.283 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 11:52:50.184 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 12:02:04.022 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 12:02:06.771 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 12:02:07.283 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 12:02:07.354 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 12:02:09.099 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 12:02:14.167 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 12:03:14.904 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 12:03:17.517 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 12:03:17.998 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 12:03:18.087 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 12:03:19.216 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 12:03:24.024 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 12:05:45.361 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 12:05:48.013 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 12:05:48.448 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 12:05:48.524 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 12:05:49.665 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 12:05:58.815 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 12:33:20.404 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 12:33:23.024 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 12:33:23.507 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 12:33:23.582 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 12:33:25.004 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 12:33:26.708 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 12:33:37.316 [main] INFO  TestCases.LoginTests - Validate the above entered values from table record fetched
+2023-10-21 12:46:06.569 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 12:46:09.386 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 12:46:09.888 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 12:46:09.967 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 12:46:11.116 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 12:46:12.985 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 12:46:13.768 [main] INFO  TestCases.LoginTests - Validate the above entered values from table record fetched
+2023-10-21 12:48:37.843 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 12:48:40.440 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 12:48:40.915 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 12:48:40.996 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 12:48:42.101 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 12:48:47.791 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 12:50:33.590 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 12:50:36.072 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 12:50:36.487 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 12:50:36.561 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 12:50:37.702 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 12:50:39.129 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 12:50:39.846 [main] INFO  TestCases.LoginTests - Validate the above entered values from table record fetched
+2023-10-21 12:52:59.404 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 12:53:02.109 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 12:53:02.586 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 12:53:02.661 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 12:53:03.837 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 12:53:06.196 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 12:53:06.850 [main] INFO  TestCases.LoginTests - Validate the above entered values from table record fetched
+2023-10-21 12:55:54.703 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 12:55:57.283 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 12:55:57.800 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 12:55:57.869 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 12:55:58.950 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 12:56:00.631 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 12:56:01.316 [main] INFO  TestCases.LoginTests - Validate the above entered values from table record fetched
+2023-10-21 12:59:39.908 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 12:59:42.457 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 12:59:42.934 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 12:59:43.016 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 12:59:44.365 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 12:59:46.046 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 12:59:56.818 [main] INFO  TestCases.LoginTests - Validate the above entered values from table record fetched
+2023-10-21 13:01:41.470 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 13:01:43.947 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 13:01:44.455 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 13:01:44.528 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 13:01:45.653 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 13:01:47.157 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 13:01:58.144 [main] INFO  TestCases.LoginTests - Validate the above entered values from table record fetched
+2023-10-21 13:03:10.887 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 13:03:13.432 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 13:03:13.917 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 13:03:13.994 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 13:03:15.339 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 13:03:16.798 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 13:03:47.564 [main] INFO  TestCases.LoginTests - Validate the above entered values from table record fetched
+2023-10-21 13:10:47.980 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 13:10:50.632 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 13:10:51.086 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 13:10:51.172 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 13:10:52.326 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 13:10:53.517 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 13:11:24.536 [main] INFO  TestCases.LoginTests - Validate the above entered values from table record fetched
+2023-10-21 14:43:46.873 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 14:43:49.703 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 14:43:50.195 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 14:43:50.288 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 14:43:51.471 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 14:43:52.926 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 14:44:24.019 [main] INFO  TestCases.LoginTests - Validate the above entered values from table record fetched
+2023-10-21 15:00:55.932 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 15:00:59.188 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 15:00:59.716 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 15:00:59.820 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 15:01:01.120 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 15:01:03.188 [main] INFO  TestCases.LoginTests - Click Add Button
+2023-10-21 15:01:04.164 [main] INFO  TestCases.LoginTests - Switch to Add UserPage
+2023-10-21 15:01:41.214 [main] INFO  TestCases.LoginTests - User added above should appear in search
+2023-10-21 15:01:41.215 [main] INFO  TestCases.LoginTests - Send Username
+2023-10-21 15:01:41.358 [main] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 15:01:41.574 [main] INFO  TestCases.LoginTests - Semding partial text and selecting
+2023-10-21 15:01:46.895 [main] INFO  TestCases.LoginTests - Select status to enabled
+2023-10-21 15:01:47.096 [main] INFO  TestCases.LoginTests - Click search button
+2023-10-21 15:01:48.359 [main] INFO  TestCases.LoginTests - Click Reset
+2023-10-21 15:01:48.500 [main] INFO  TestCases.LoginTests - Validate all fields got empty
+2023-10-21 15:01:48.799 [main] INFO  TestCases.LoginTests - Select the record that needs to be deleted found from above search record
+2023-10-21 15:01:49.124 [main] INFO  TestCases.LoginTests - click the delete button on the selected checkbox
+2023-10-21 15:01:49.491 [main] INFO  TestCases.LoginTests - Validate that record got deleted by performing search again- it shouldn't come in search again
+2023-10-21 15:01:49.493 [main] INFO  TestCases.LoginTests - Send Username
+2023-10-21 15:01:49.690 [main] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 15:01:49.883 [main] INFO  TestCases.LoginTests - Semding partial text and selecting
+2023-10-21 15:01:55.214 [main] INFO  TestCases.LoginTests - Select status to enabled
+2023-10-21 15:01:55.394 [main] INFO  TestCases.LoginTests - Click search button
+2023-10-21 15:18:11.715 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 15:18:14.974 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 15:18:15.424 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 15:18:15.514 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 15:18:16.755 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 15:18:21.518 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 15:18:25.222 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 15:18:25.643 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 15:18:25.663 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 15:18:27.216 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 15:19:40.280 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 15:19:43.364 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 15:19:43.809 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 15:19:43.905 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 15:19:45.368 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 15:19:47.112 [main] INFO  TestCases.LoginTests - Click Add Button
+2023-10-21 15:19:48.312 [main] INFO  TestCases.LoginTests - Switch to Add UserPage
+2023-10-21 15:20:24.610 [main] INFO  TestCases.LoginTests - User added above should appear in search
+2023-10-21 15:20:24.611 [main] INFO  TestCases.LoginTests - Send Username
+2023-10-21 15:20:24.781 [main] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 15:20:24.888 [main] INFO  TestCases.LoginTests - Semding partial text and selecting
+2023-10-21 15:20:30.082 [main] INFO  TestCases.LoginTests - Select status to enabled
+2023-10-21 15:20:30.178 [main] INFO  TestCases.LoginTests - Click search button
+2023-10-21 15:20:30.913 [main] INFO  TestCases.LoginTests - Click Reset
+2023-10-21 15:20:30.979 [main] INFO  TestCases.LoginTests - Validate all fields got empty
+2023-10-21 15:20:31.142 [main] INFO  TestCases.LoginTests - Select the record that needs to be deleted found from above search record
+2023-10-21 15:20:31.532 [main] INFO  TestCases.LoginTests - click the delete button on the selected checkbox
+2023-10-21 15:20:31.719 [main] INFO  TestCases.LoginTests - Validate that record got deleted by performing search again- it shouldn't come in search again
+2023-10-21 15:20:31.719 [main] INFO  TestCases.LoginTests - Send Username
+2023-10-21 15:20:31.862 [main] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 15:20:31.963 [main] INFO  TestCases.LoginTests - Semding partial text and selecting
+2023-10-21 15:20:37.183 [main] INFO  TestCases.LoginTests - Select status to enabled
+2023-10-21 15:20:37.310 [main] INFO  TestCases.LoginTests - Click search button
+2023-10-21 15:20:47.843 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 15:21:18.835 [main] INFO  TestCases.LoginTests - Validate the above entered values from table record fetched
+2023-10-21 15:21:22.506 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 15:21:26.471 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 15:21:26.953 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 15:21:26.994 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 15:21:27.226 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 15:21:32.258 [main] INFO  TestCases.LoginTests - Click Add Button
+2023-10-21 15:21:34.032 [main] INFO  TestCases.LoginTests - Switch to Add UserPage
+2023-10-21 15:22:10.818 [main] INFO  TestCases.LoginTests - User added above should appear in search
+2023-10-21 15:22:10.819 [main] INFO  TestCases.LoginTests - Send Username
+2023-10-21 15:22:10.903 [main] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 15:22:11.183 [main] INFO  TestCases.LoginTests - Semding partial text and selecting
+2023-10-21 15:22:16.290 [main] INFO  TestCases.LoginTests - Select status to enabled
+2023-10-21 15:22:16.575 [main] INFO  TestCases.LoginTests - Click search button
+2023-10-21 15:22:18.492 [main] INFO  TestCases.LoginTests - Click Reset
+2023-10-21 15:22:18.729 [main] INFO  TestCases.LoginTests - Validate all fields got empty
+2023-10-21 15:22:18.828 [main] INFO  TestCases.LoginTests - Select the record that needs to be deleted found from above search record
+2023-10-21 15:22:19.101 [main] INFO  TestCases.LoginTests - click the delete button on the selected checkbox
+2023-10-21 15:22:19.603 [main] INFO  TestCases.LoginTests - Validate that record got deleted by performing search again- it shouldn't come in search again
+2023-10-21 15:22:19.604 [main] INFO  TestCases.LoginTests - Send Username
+2023-10-21 15:22:19.641 [main] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 15:22:19.902 [main] INFO  TestCases.LoginTests - Semding partial text and selecting
+2023-10-21 15:22:25.008 [main] INFO  TestCases.LoginTests - Select status to enabled
+2023-10-21 15:22:25.285 [main] INFO  TestCases.LoginTests - Click search button
+2023-10-21 15:22:35.821 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 15:23:06.974 [main] INFO  TestCases.LoginTests - Validate the above entered values from table record fetched
+2023-10-21 15:25:25.204 [TestNG-tests-1] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 15:25:27.354 [TestNG-tests-2] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 15:25:28.096 [TestNG-tests-1] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 15:25:30.647 [TestNG-tests-2] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 15:25:31.158 [TestNG-tests-1] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 15:25:31.175 [TestNG-tests-2] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 15:25:31.196 [TestNG-tests-1] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 15:25:31.208 [TestNG-tests-2] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 15:25:32.788 [TestNG-tests-1] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 15:26:10.688 [TestNG-tests-1] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 15:26:11.565 [TestNG-tests-1] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 15:26:13.154 [TestNG-tests-2] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 15:26:14.391 [TestNG-tests-1] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 15:26:14.499 [TestNG-tests-1] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 15:26:14.533 [TestNG-tests-2] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 15:26:31.672 [TestNG-tests-1] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 15:26:32.447 [TestNG-tests-1] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 15:26:33.688 [TestNG-tests-2] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 15:26:34.988 [TestNG-tests-1] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 15:26:35.084 [TestNG-tests-1] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 15:26:36.708 [TestNG-tests-1] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 15:26:36.711 [TestNG-tests-2] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 15:26:37.275 [TestNG-tests-2] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 15:26:37.313 [TestNG-tests-2] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 15:26:39.385 [TestNG-tests-2] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 15:27:46.323 [TestNG-test=Reg-3] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 15:27:49.291 [TestNG-test=Reg-3] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 15:27:49.753 [TestNG-test=Reg-3] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 15:27:49.845 [TestNG-test=Reg-3] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 15:27:51.061 [TestNG-test=Reg-3] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 15:27:53.109 [TestNG-test=Reg2-2] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 15:27:55.341 [TestNG-test=Reg2-3] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 15:27:58.304 [TestNG-test=Reg2-3] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 15:27:58.766 [TestNG-test=Reg2-3] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 15:27:58.784 [TestNG-test=Reg2-3] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 15:28:00.179 [TestNG-test=Reg2-3] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 15:28:24.122 [TestNG-test=Reg2-2] INFO  TestCases.LoginTests - Validate the above entered values from table record fetched
+2023-10-21 15:29:50.158 [TestNG-test=Reg-3] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 15:29:53.008 [TestNG-test=Reg-3] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 15:29:53.469 [TestNG-test=Reg-3] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 15:29:53.564 [TestNG-test=Reg-3] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 15:29:54.901 [TestNG-test=Reg-3] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 15:29:56.551 [TestNG-test=Reg2-1] INFO  TestCases.LoginTests - Click Add Button
+2023-10-21 15:29:57.443 [TestNG-test=Reg2-1] INFO  TestCases.LoginTests - Switch to Add UserPage
+2023-10-21 15:29:59.130 [TestNG-test=Reg2-3] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 15:30:02.490 [TestNG-test=Reg2-3] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 15:30:02.953 [TestNG-test=Reg2-3] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 15:30:02.973 [TestNG-test=Reg2-3] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 15:30:04.484 [TestNG-test=Reg2-3] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 15:30:14.666 [TestNG-test=Reg2-1] INFO  TestCases.LoginTests - Click Reset
+2023-10-21 15:30:14.684 [TestNG-test=Reg2-1] INFO  TestCases.LoginTests - Select the record that needs to be deleted found from above search record
+2023-10-21 15:31:46.030 [TestNG-test=Reg-1] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 15:31:46.030 [TestNG-test=Reg-2] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 15:31:48.146 [TestNG-test=Reg-3] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 15:31:51.294 [TestNG-test=Reg-3] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 15:31:51.765 [TestNG-test=Reg-3] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 15:31:51.853 [TestNG-test=Reg-3] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 15:31:53.146 [TestNG-test=Reg-3] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 15:31:53.747 [TestNG-test=Reg2-2] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 15:31:53.748 [TestNG-test=Reg2-1] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 15:31:56.928 [TestNG-test=Reg2-3] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 15:32:00.078 [TestNG-test=Reg2-3] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 15:32:00.517 [TestNG-test=Reg2-3] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 15:32:00.536 [TestNG-test=Reg2-3] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 15:32:02.053 [TestNG-test=Reg2-3] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 15:38:39.205 [TestNG-test=Reg-2] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 15:38:39.221 [TestNG-test=Reg-1] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 15:38:41.588 [TestNG-test=Reg-3] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 15:38:44.522 [TestNG-test=Reg-3] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 15:38:44.997 [TestNG-test=Reg-3] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 15:38:45.088 [TestNG-test=Reg-3] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 15:38:46.557 [TestNG-test=Reg-3] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 15:38:47.153 [TestNG-test=Reg2-2] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 15:38:47.154 [TestNG-test=Reg2-1] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 15:38:50.783 [TestNG-test=Reg2-3] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 15:38:54.567 [TestNG-test=Reg2-3] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 15:38:55.015 [TestNG-test=Reg2-3] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 15:38:55.036 [TestNG-test=Reg2-3] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 15:38:56.929 [TestNG-test=Reg2-3] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 15:43:10.761 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 15:43:13.942 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 15:43:14.498 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 15:43:14.592 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 15:43:15.925 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 15:43:15.958 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 15:44:06.248 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 15:45:00.044 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 15:45:03.365 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 15:45:03.834 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 15:45:03.886 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 15:45:04.112 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 15:45:04.120 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 15:45:04.143 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 15:45:04.156 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 15:45:04.380 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 15:45:54.491 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 15:45:54.523 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 15:45:54.551 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 15:45:54.796 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 15:45:59.907 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 15:46:31.166 [main] INFO  TestCases.LoginTests - Validate the above entered values from table record fetched
+2023-10-21 15:50:15.768 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 15:50:18.737 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 15:50:19.195 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 15:50:19.287 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 15:50:20.717 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 15:50:24.495 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 15:50:27.788 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 15:50:28.249 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 15:50:28.271 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 15:50:29.717 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 15:53:34.189 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 15:53:37.258 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 15:53:37.707 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 15:53:37.800 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 15:53:39.084 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 15:53:40.853 [main] INFO  TestCases.LoginTests - Click Add Button
+2023-10-21 15:53:42.242 [main] INFO  TestCases.LoginTests - Switch to Add UserPage
+2023-10-21 15:54:18.762 [main] INFO  TestCases.LoginTests - User added above should appear in search
+2023-10-21 15:54:18.763 [main] INFO  TestCases.LoginTests - Send Username
+2023-10-21 15:54:18.889 [main] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 15:54:18.993 [main] INFO  TestCases.LoginTests - Semding partial text and selecting
+2023-10-21 15:54:24.221 [main] INFO  TestCases.LoginTests - Select status to enabled
+2023-10-21 15:54:24.367 [main] INFO  TestCases.LoginTests - Click search button
+2023-10-21 15:54:25.149 [main] INFO  TestCases.LoginTests - Click Reset
+2023-10-21 15:54:25.247 [main] INFO  TestCases.LoginTests - Validate all fields got empty
+2023-10-21 15:54:25.394 [main] INFO  TestCases.LoginTests - Select the record that needs to be deleted found from above search record
+2023-10-21 15:54:25.936 [main] INFO  TestCases.LoginTests - click the delete button on the selected checkbox
+2023-10-21 15:54:26.132 [main] INFO  TestCases.LoginTests - Validate that record got deleted by performing search again- it shouldn't come in search again
+2023-10-21 15:54:26.133 [main] INFO  TestCases.LoginTests - Send Username
+2023-10-21 15:54:26.280 [main] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 15:54:26.381 [main] INFO  TestCases.LoginTests - Semding partial text and selecting
+2023-10-21 15:54:31.544 [main] INFO  TestCases.LoginTests - Select status to enabled
+2023-10-21 15:54:31.692 [main] INFO  TestCases.LoginTests - Click search button
+2023-10-21 15:54:44.866 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 15:54:49.172 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 15:54:49.683 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 15:54:49.705 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 15:54:51.238 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 15:54:53.460 [main] INFO  TestCases.LoginTests - Click Add Button
+2023-10-21 15:54:54.965 [main] INFO  TestCases.LoginTests - Switch to Add UserPage
+2023-10-21 15:55:31.774 [main] INFO  TestCases.LoginTests - User added above should appear in search
+2023-10-21 15:55:31.776 [main] INFO  TestCases.LoginTests - Send Username
+2023-10-21 15:55:31.835 [main] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 15:55:32.098 [main] INFO  TestCases.LoginTests - Semding partial text and selecting
+2023-10-21 15:55:37.151 [main] INFO  TestCases.LoginTests - Select status to enabled
+2023-10-21 15:55:37.379 [main] INFO  TestCases.LoginTests - Click search button
+2023-10-21 15:55:38.162 [main] INFO  TestCases.LoginTests - Click Reset
+2023-10-21 15:55:38.414 [main] INFO  TestCases.LoginTests - Validate all fields got empty
+2023-10-21 15:55:38.476 [main] INFO  TestCases.LoginTests - Select the record that needs to be deleted found from above search record
+2023-10-21 15:55:38.773 [main] INFO  TestCases.LoginTests - click the delete button on the selected checkbox
+2023-10-21 15:55:39.290 [main] INFO  TestCases.LoginTests - Validate that record got deleted by performing search again- it shouldn't come in search again
+2023-10-21 15:55:39.291 [main] INFO  TestCases.LoginTests - Send Username
+2023-10-21 15:55:39.334 [main] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 15:55:39.585 [main] INFO  TestCases.LoginTests - Semding partial text and selecting
+2023-10-21 15:55:44.680 [main] INFO  TestCases.LoginTests - Select status to enabled
+2023-10-21 15:55:44.954 [main] INFO  TestCases.LoginTests - Click search button
+2023-10-21 15:57:59.373 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 15:58:02.369 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 15:58:02.870 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 15:58:02.960 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 15:58:05.157 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 15:58:07.374 [main] INFO  TestCases.LoginTests - Click Add Button
+2023-10-21 15:58:09.546 [main] INFO  TestCases.LoginTests - Switch to Add UserPage
+2023-10-21 15:58:25.616 [main] INFO  TestCases.LoginTests - Click Reset
+2023-10-21 15:58:25.626 [main] INFO  TestCases.LoginTests - Select the record that needs to be deleted found from above search record
+2023-10-21 15:58:41.438 [TestNG-tests-1] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 15:58:43.631 [TestNG-tests-2] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 15:58:44.189 [TestNG-tests-1] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 15:58:47.353 [TestNG-tests-2] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 15:58:47.882 [TestNG-tests-1] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 15:58:47.894 [TestNG-tests-2] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 15:58:47.912 [TestNG-tests-1] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 15:58:47.920 [TestNG-tests-2] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 15:58:49.882 [TestNG-tests-1] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 16:06:40.058 [TestNG-tests-1] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 16:06:42.073 [TestNG-tests-2] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 16:06:43.142 [TestNG-tests-1] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 16:06:45.506 [TestNG-tests-2] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 16:06:46.064 [TestNG-tests-1] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 16:06:46.074 [TestNG-tests-2] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 16:06:46.096 [TestNG-tests-1] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 16:06:46.104 [TestNG-tests-2] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 16:06:48.129 [TestNG-tests-1] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 16:14:05.420 [TestNG-tests-1] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 16:14:08.249 [TestNG-tests-1] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 16:14:09.024 [TestNG-tests-1] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 16:14:09.119 [TestNG-tests-1] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 16:14:10.747 [TestNG-tests-1] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 16:14:55.030 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 16:14:58.094 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 16:14:58.549 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 16:14:58.640 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 16:14:59.841 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 16:15:43.284 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 16:15:46.342 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 16:15:46.799 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 16:15:46.891 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 16:15:48.241 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 16:15:51.245 [main] INFO  TestCases.LoginTests - Click Add Button
+2023-10-21 16:15:52.376 [main] INFO  TestCases.LoginTests - Switch to Add UserPage
+2023-10-21 16:16:29.386 [main] INFO  TestCases.LoginTests - User added above should appear in search
+2023-10-21 16:16:29.387 [main] INFO  TestCases.LoginTests - Send Username
+2023-10-21 16:16:29.561 [main] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 16:16:29.639 [main] INFO  TestCases.LoginTests - Semding partial text and selecting
+2023-10-21 16:16:34.851 [main] INFO  TestCases.LoginTests - Select status to enabled
+2023-10-21 16:16:34.939 [main] INFO  TestCases.LoginTests - Click search button
+2023-10-21 16:16:35.704 [main] INFO  TestCases.LoginTests - Click Reset
+2023-10-21 16:16:35.787 [main] INFO  TestCases.LoginTests - Validate all fields got empty
+2023-10-21 16:16:35.959 [main] INFO  TestCases.LoginTests - Select the record that needs to be deleted found from above search record
+2023-10-21 16:16:36.453 [main] INFO  TestCases.LoginTests - click the delete button on the selected checkbox
+2023-10-21 16:16:36.671 [main] INFO  TestCases.LoginTests - Validate that record got deleted by performing search again- it shouldn't come in search again
+2023-10-21 16:16:36.671 [main] INFO  TestCases.LoginTests - Send Username
+2023-10-21 16:16:36.810 [main] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 16:16:36.927 [main] INFO  TestCases.LoginTests - Semding partial text and selecting
+2023-10-21 16:16:42.144 [main] INFO  TestCases.LoginTests - Select status to enabled
+2023-10-21 16:16:42.283 [main] INFO  TestCases.LoginTests - Click search button
+2023-10-21 16:16:52.729 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 16:17:23.850 [main] INFO  TestCases.LoginTests - Validate the above entered values from table record fetched
+2023-10-21 16:20:30.114 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 16:20:39.750 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 16:20:40.499 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 16:20:40.599 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 16:20:41.705 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 16:20:44.565 [TestNG-test=parallelTests-1] INFO  TestCases.LoginTests - Click Add Button
+2023-10-21 16:20:45.476 [TestNG-test=parallelTests-1] INFO  TestCases.LoginTests - Switch to Add UserPage
+2023-10-21 16:21:21.582 [TestNG-test=parallelTests-1] INFO  TestCases.LoginTests - User added above should appear in search
+2023-10-21 16:21:21.584 [TestNG-test=parallelTests-1] INFO  TestCases.LoginTests - Send Username
+2023-10-21 16:21:21.719 [TestNG-test=parallelTests-1] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 16:21:21.817 [TestNG-test=parallelTests-1] INFO  TestCases.LoginTests - Semding partial text and selecting
+2023-10-21 16:21:27.029 [TestNG-test=parallelTests-1] INFO  TestCases.LoginTests - Select status to enabled
+2023-10-21 16:21:27.147 [TestNG-test=parallelTests-1] INFO  TestCases.LoginTests - Click search button
+2023-10-21 16:21:27.868 [TestNG-test=parallelTests-1] INFO  TestCases.LoginTests - Click Reset
+2023-10-21 16:21:27.972 [TestNG-test=parallelTests-1] INFO  TestCases.LoginTests - Validate all fields got empty
+2023-10-21 16:21:28.128 [TestNG-test=parallelTests-1] INFO  TestCases.LoginTests - Select the record that needs to be deleted found from above search record
+2023-10-21 16:21:28.531 [TestNG-test=parallelTests-1] INFO  TestCases.LoginTests - click the delete button on the selected checkbox
+2023-10-21 16:21:28.713 [TestNG-test=parallelTests-1] INFO  TestCases.LoginTests - Validate that record got deleted by performing search again- it shouldn't come in search again
+2023-10-21 16:21:28.714 [TestNG-test=parallelTests-1] INFO  TestCases.LoginTests - Send Username
+2023-10-21 16:21:28.849 [TestNG-test=parallelTests-1] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 16:21:28.972 [TestNG-test=parallelTests-1] INFO  TestCases.LoginTests - Semding partial text and selecting
+2023-10-21 16:21:34.182 [TestNG-test=parallelTests-1] INFO  TestCases.LoginTests - Select status to enabled
+2023-10-21 16:21:34.259 [TestNG-test=parallelTests-1] INFO  TestCases.LoginTests - Click search button
+2023-10-21 16:27:44.956 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 16:27:47.838 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 16:27:48.296 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 16:27:48.389 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 16:27:49.754 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 16:27:54.691 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 16:27:58.113 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 16:27:58.562 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 16:27:58.581 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 16:27:59.942 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 16:29:30.628 [TestNG-tests-1] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 16:29:33.095 [TestNG-tests-2] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 16:29:33.821 [TestNG-tests-1] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 16:29:36.021 [TestNG-tests-2] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 16:29:36.514 [TestNG-tests-1] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 16:29:36.533 [TestNG-tests-2] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 16:29:36.562 [TestNG-tests-1] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 16:29:36.575 [TestNG-tests-2] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 16:29:38.034 [TestNG-tests-1] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 16:33:26.453 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 16:33:29.370 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 16:33:29.834 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 16:33:29.926 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 16:33:31.137 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 16:33:34.299 [main] INFO  TestCases.LoginTests - Click Add Button
+2023-10-21 16:33:35.167 [main] INFO  TestCases.LoginTests - Switch to Add UserPage
+2023-10-21 16:34:11.648 [main] INFO  TestCases.LoginTests - User added above should appear in search
+2023-10-21 16:34:11.649 [main] INFO  TestCases.LoginTests - Send Username
+2023-10-21 16:34:11.860 [main] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 16:34:11.930 [main] INFO  TestCases.LoginTests - Semding partial text and selecting
+2023-10-21 16:34:17.151 [main] INFO  TestCases.LoginTests - Select status to enabled
+2023-10-21 16:34:17.246 [main] INFO  TestCases.LoginTests - Click search button
+2023-10-21 16:34:17.960 [main] INFO  TestCases.LoginTests - Click Reset
+2023-10-21 16:34:18.065 [main] INFO  TestCases.LoginTests - Validate all fields got empty
+2023-10-21 16:34:18.219 [main] INFO  TestCases.LoginTests - Select the record that needs to be deleted found from above search record
+2023-10-21 16:34:18.632 [main] INFO  TestCases.LoginTests - click the delete button on the selected checkbox
+2023-10-21 16:34:18.793 [main] INFO  TestCases.LoginTests - Validate that record got deleted by performing search again- it shouldn't come in search again
+2023-10-21 16:34:18.793 [main] INFO  TestCases.LoginTests - Send Username
+2023-10-21 16:34:18.901 [main] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 16:34:18.978 [main] INFO  TestCases.LoginTests - Semding partial text and selecting
+2023-10-21 16:34:24.207 [main] INFO  TestCases.LoginTests - Select status to enabled
+2023-10-21 16:34:24.343 [main] INFO  TestCases.LoginTests - Click search button
+2023-10-21 16:34:34.788 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 16:35:06.009 [main] INFO  TestCases.LoginTests - Validate the above entered values from table record fetched
+2023-10-21 16:35:09.316 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 16:35:12.881 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 16:35:13.567 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 16:35:13.587 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 16:35:15.802 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 16:36:39.905 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 16:36:42.656 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 16:36:43.098 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 16:36:43.195 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 16:36:44.640 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 16:36:47.920 [main] INFO  TestCases.LoginTests - Click Add Button
+2023-10-21 16:36:49.068 [main] INFO  TestCases.LoginTests - Switch to Add UserPage
+2023-10-21 16:36:54.776 [main] INFO  TestCases.LoginTests - Click Reset
+2023-10-21 16:36:54.789 [main] INFO  TestCases.LoginTests - Select the record that needs to be deleted found from above search record
+2023-10-21 16:36:57.840 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 16:37:01.005 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 16:37:01.476 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 16:37:01.496 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 16:37:02.839 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 16:40:28.140 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 16:40:31.040 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 16:40:31.517 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 16:40:31.606 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 16:40:32.843 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 16:40:52.854 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 16:40:55.825 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 16:40:56.277 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 16:40:56.368 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 16:40:57.535 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 16:41:00.735 [main] INFO  TestCases.LoginTests - Click Add Button
+2023-10-21 16:41:01.895 [main] INFO  TestCases.LoginTests - Switch to Add UserPage
+2023-10-21 16:41:38.510 [main] INFO  TestCases.LoginTests - User added above should appear in search
+2023-10-21 16:41:38.511 [main] INFO  TestCases.LoginTests - Send Username
+2023-10-21 16:41:38.635 [main] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 16:41:38.712 [main] INFO  TestCases.LoginTests - Semding partial text and selecting
+2023-10-21 16:41:43.927 [main] INFO  TestCases.LoginTests - Select status to enabled
+2023-10-21 16:41:44.047 [main] INFO  TestCases.LoginTests - Click search button
+2023-10-21 16:41:44.777 [main] INFO  TestCases.LoginTests - Click Reset
+2023-10-21 16:41:44.886 [main] INFO  TestCases.LoginTests - Validate all fields got empty
+2023-10-21 16:41:45.049 [main] INFO  TestCases.LoginTests - Select the record that needs to be deleted found from above search record
+2023-10-21 16:41:45.463 [main] INFO  TestCases.LoginTests - click the delete button on the selected checkbox
+2023-10-21 16:41:45.705 [main] INFO  TestCases.LoginTests - Validate that record got deleted by performing search again- it shouldn't come in search again
+2023-10-21 16:41:45.705 [main] INFO  TestCases.LoginTests - Send Username
+2023-10-21 16:41:45.839 [main] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 16:41:45.950 [main] INFO  TestCases.LoginTests - Semding partial text and selecting
+2023-10-21 16:41:51.151 [main] INFO  TestCases.LoginTests - Select status to enabled
+2023-10-21 16:41:51.214 [main] INFO  TestCases.LoginTests - Click search button
+2023-10-21 16:42:01.741 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 16:42:33.013 [main] INFO  TestCases.LoginTests - Validate the above entered values from table record fetched
+2023-10-21 16:47:04.109 [TestNG-test=LoginTest_Chrome-3] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 16:47:07.390 [TestNG-test=LoginTest_Chrome-3] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 16:47:07.863 [TestNG-test=LoginTest_Chrome-3] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 16:47:07.951 [TestNG-test=LoginTest_Chrome-3] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 16:47:11.648 [TestNG-test=LoginTest_Chrome-3] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 16:47:15.282 [TestNG-test=LoginTest_FireFox-2] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 16:47:15.973 [TestNG-test=LoginTest_FireFox-3] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 16:47:16.848 [TestNG-test=LoginTest_FireFox-1] INFO  TestCases.LoginTests - Click Add Button
+2023-10-21 16:47:19.180 [TestNG-test=LoginTest_FireFox-3] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 16:47:19.752 [TestNG-test=LoginTest_FireFox-3] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 16:47:19.754 [TestNG-test=LoginTest_FireFox-1] INFO  TestCases.LoginTests - Switch to Add UserPage
+2023-10-21 16:47:19.786 [TestNG-test=LoginTest_FireFox-3] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 16:47:21.724 [TestNG-test=LoginTest_FireFox-3] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 16:47:47.722 [TestNG-test=LoginTest_FireFox-1] INFO  TestCases.LoginTests - Click Reset
+2023-10-21 16:47:48.318 [TestNG-test=LoginTest_FireFox-1] INFO  TestCases.LoginTests - Validate all fields got empty
+2023-10-21 16:47:48.904 [TestNG-test=LoginTest_FireFox-1] INFO  TestCases.LoginTests - Select the record that needs to be deleted found from above search record
+2023-10-21 16:47:49.432 [TestNG-test=LoginTest_FireFox-1] INFO  TestCases.LoginTests - click the delete button on the selected checkbox
+2023-10-21 16:56:30.673 [TestNG-test=LoginTest_Chrome-3] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 16:56:33.528 [TestNG-test=LoginTest_Chrome-3] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 16:56:33.993 [TestNG-test=LoginTest_Chrome-3] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 16:56:34.088 [TestNG-test=LoginTest_Chrome-3] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 16:56:35.303 [TestNG-test=LoginTest_Chrome-3] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 16:56:39.363 [TestNG-test=LoginTest_FireFox-3] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 16:56:42.767 [TestNG-test=LoginTest_FireFox-3] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 16:56:43.360 [TestNG-test=LoginTest_FireFox-3] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 16:56:43.383 [TestNG-test=LoginTest_FireFox-3] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 16:56:45.317 [TestNG-test=LoginTest_FireFox-3] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 16:58:11.470 [TestNG-test=LoginTest_Chrome-3] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 16:58:14.458 [TestNG-test=LoginTest_Chrome-3] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 16:58:14.939 [TestNG-test=LoginTest_Chrome-3] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 16:58:15.024 [TestNG-test=LoginTest_Chrome-3] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 16:58:16.222 [TestNG-test=LoginTest_Chrome-3] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 16:58:19.549 [TestNG-test=LoginTest_FireFox-1] INFO  TestCases.LoginTests - Click Add Button
+2023-10-21 16:58:20.335 [TestNG-test=LoginTest_FireFox-3] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 16:58:23.277 [TestNG-test=LoginTest_FireFox-3] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 16:58:23.279 [TestNG-test=LoginTest_FireFox-1] INFO  TestCases.LoginTests - Switch to Add UserPage
+2023-10-21 16:58:23.689 [TestNG-test=LoginTest_FireFox-3] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 16:58:23.715 [TestNG-test=LoginTest_FireFox-3] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 16:58:25.147 [TestNG-test=LoginTest_FireFox-3] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 16:58:49.626 [TestNG-test=LoginTest_FireFox-1] INFO  TestCases.LoginTests - Click Reset
+2023-10-21 16:58:50.216 [TestNG-test=LoginTest_FireFox-1] INFO  TestCases.LoginTests - Validate all fields got empty
+2023-10-21 16:58:50.821 [TestNG-test=LoginTest_FireFox-1] INFO  TestCases.LoginTests - Select the record that needs to be deleted found from above search record
+2023-10-21 16:58:51.256 [TestNG-test=LoginTest_FireFox-1] INFO  TestCases.LoginTests - click the delete button on the selected checkbox
+2023-10-21 17:01:17.694 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 17:01:20.564 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 17:01:20.989 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 17:01:21.079 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 17:01:22.451 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 17:01:25.704 [main] INFO  TestCases.LoginTests - Click Add Button
+2023-10-21 17:01:26.869 [main] INFO  TestCases.LoginTests - Switch to Add UserPage
+2023-10-21 17:02:03.479 [main] INFO  TestCases.LoginTests - User added above should appear in search
+2023-10-21 17:02:03.481 [main] INFO  TestCases.LoginTests - Send Username
+2023-10-21 17:02:03.693 [main] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 17:02:03.811 [main] INFO  TestCases.LoginTests - Semding partial text and selecting
+2023-10-21 17:02:09.052 [main] INFO  TestCases.LoginTests - Select status to enabled
+2023-10-21 17:02:09.170 [main] INFO  TestCases.LoginTests - Click search button
+2023-10-21 17:02:09.907 [main] INFO  TestCases.LoginTests - Click Reset
+2023-10-21 17:02:10.010 [main] INFO  TestCases.LoginTests - Validate all fields got empty
+2023-10-21 17:02:10.185 [main] INFO  TestCases.LoginTests - Select the record that needs to be deleted found from above search record
+2023-10-21 17:02:10.586 [main] INFO  TestCases.LoginTests - click the delete button on the selected checkbox
+2023-10-21 17:02:10.767 [main] INFO  TestCases.LoginTests - Validate that record got deleted by performing search again- it shouldn't come in search again
+2023-10-21 17:02:10.767 [main] INFO  TestCases.LoginTests - Send Username
+2023-10-21 17:02:10.914 [main] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 17:02:10.993 [main] INFO  TestCases.LoginTests - Semding partial text and selecting
+2023-10-21 17:02:16.226 [main] INFO  TestCases.LoginTests - Select status to enabled
+2023-10-21 17:02:16.375 [main] INFO  TestCases.LoginTests - Click search button
+2023-10-21 17:02:26.592 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 17:02:57.601 [main] INFO  TestCases.LoginTests - Validate the above entered values from table record fetched
+2023-10-21 17:03:01.628 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 17:03:04.963 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 17:03:05.737 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 17:03:05.755 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 17:03:07.349 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 17:03:12.299 [main] INFO  TestCases.LoginTests - Click Add Button
+2023-10-21 17:03:14.302 [main] INFO  TestCases.LoginTests - Switch to Add UserPage
+2023-10-21 17:03:51.142 [main] INFO  TestCases.LoginTests - User added above should appear in search
+2023-10-21 17:03:51.142 [main] INFO  TestCases.LoginTests - Send Username
+2023-10-21 17:03:51.167 [main] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 17:03:51.418 [main] INFO  TestCases.LoginTests - Semding partial text and selecting
+2023-10-21 17:03:59.074 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 17:04:01.888 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 17:04:02.344 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 17:04:02.457 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 17:04:04.805 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 17:04:08.525 [main] INFO  TestCases.LoginTests - Click Add Button
+2023-10-21 17:04:09.861 [main] INFO  TestCases.LoginTests - Switch to Add UserPage
+2023-10-21 17:04:36.257 [main] INFO  TestCases.LoginTests - Click Reset
+2023-10-21 17:04:36.264 [main] INFO  TestCases.LoginTests - Select the record that needs to be deleted found from above search record
+2023-10-21 17:04:39.853 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 17:04:45.515 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 17:12:14.660 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 17:12:17.776 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 17:12:18.229 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 17:12:18.330 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 17:12:19.780 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 17:12:23.060 [main] INFO  TestCases.LoginTests - Click Add Button
+2023-10-21 17:12:24.284 [main] INFO  TestCases.LoginTests - Switch to Add UserPage
+2023-10-21 17:13:00.707 [main] INFO  TestCases.LoginTests - User added above should appear in search
+2023-10-21 17:13:00.707 [main] INFO  TestCases.LoginTests - Send Username
+2023-10-21 17:13:00.793 [main] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 17:13:00.863 [main] INFO  TestCases.LoginTests - Semding partial text and selecting
+2023-10-21 17:13:06.022 [main] INFO  TestCases.LoginTests - Select status to enabled
+2023-10-21 17:13:06.141 [main] INFO  TestCases.LoginTests - Click search button
+2023-10-21 17:13:06.882 [main] INFO  TestCases.LoginTests - Click Reset
+2023-10-21 17:13:06.998 [main] INFO  TestCases.LoginTests - Validate all fields got empty
+2023-10-21 17:13:07.165 [main] INFO  TestCases.LoginTests - Select the record that needs to be deleted found from above search record
+2023-10-21 17:13:07.675 [main] INFO  TestCases.LoginTests - click the delete button on the selected checkbox
+2023-10-21 17:13:07.920 [main] INFO  TestCases.LoginTests - Validate that record got deleted by performing search again- it shouldn't come in search again
+2023-10-21 17:13:07.920 [main] INFO  TestCases.LoginTests - Send Username
+2023-10-21 17:13:08.031 [main] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 17:13:08.123 [main] INFO  TestCases.LoginTests - Semding partial text and selecting
+2023-10-21 17:13:13.383 [main] INFO  TestCases.LoginTests - Select status to enabled
+2023-10-21 17:13:13.523 [main] INFO  TestCases.LoginTests - Click search button
+2023-10-21 17:13:24.011 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 17:13:55.374 [main] INFO  TestCases.LoginTests - Validate the above entered values from table record fetched
+2023-10-21 17:13:59.926 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 17:14:03.249 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 17:14:03.739 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 17:14:03.755 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 17:14:05.409 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 17:14:09.376 [main] INFO  TestCases.LoginTests - Click Add Button
+2023-10-21 17:14:11.110 [main] INFO  TestCases.LoginTests - Switch to Add UserPage
+2023-10-21 17:14:47.616 [main] INFO  TestCases.LoginTests - User added above should appear in search
+2023-10-21 17:14:47.617 [main] INFO  TestCases.LoginTests - Send Username
+2023-10-21 17:14:47.672 [main] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 17:14:47.937 [main] INFO  TestCases.LoginTests - Semding partial text and selecting
+2023-10-21 17:14:53.060 [main] INFO  TestCases.LoginTests - Select status to enabled
+2023-10-21 17:14:53.351 [main] INFO  TestCases.LoginTests - Click search button
+2023-10-21 17:14:54.199 [main] INFO  TestCases.LoginTests - Click Reset
+2023-10-21 17:14:54.452 [main] INFO  TestCases.LoginTests - Validate all fields got empty
+2023-10-21 17:14:54.530 [main] INFO  TestCases.LoginTests - Select the record that needs to be deleted found from above search record
+2023-10-21 17:14:54.819 [main] INFO  TestCases.LoginTests - click the delete button on the selected checkbox
+2023-10-21 17:14:55.325 [main] INFO  TestCases.LoginTests - Validate that record got deleted by performing search again- it shouldn't come in search again
+2023-10-21 17:14:55.327 [main] INFO  TestCases.LoginTests - Send Username
+2023-10-21 17:14:55.436 [main] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 17:14:55.742 [main] INFO  TestCases.LoginTests - Semding partial text and selecting
+2023-10-21 17:15:00.925 [main] INFO  TestCases.LoginTests - Select status to enabled
+2023-10-21 17:15:01.223 [main] INFO  TestCases.LoginTests - Click search button
+2023-10-21 17:15:12.168 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 17:15:43.444 [main] INFO  TestCases.LoginTests - Validate the above entered values from table record fetched
+2023-10-21 17:16:09.343 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 17:16:12.368 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 17:16:12.828 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 17:16:12.919 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 17:16:14.409 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 17:16:17.766 [main] INFO  TestCases.LoginTests - Click Add Button
+2023-10-21 17:16:18.743 [main] INFO  TestCases.LoginTests - Switch to Add UserPage
+2023-10-21 17:16:55.292 [main] INFO  TestCases.LoginTests - User added above should appear in search
+2023-10-21 17:16:55.294 [main] INFO  TestCases.LoginTests - Send Username
+2023-10-21 17:16:55.503 [main] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 17:16:55.613 [main] INFO  TestCases.LoginTests - Semding partial text and selecting
+2023-10-21 17:17:00.835 [main] INFO  TestCases.LoginTests - Select status to enabled
+2023-10-21 17:17:01.006 [main] INFO  TestCases.LoginTests - Click search button
+2023-10-21 17:17:01.751 [main] INFO  TestCases.LoginTests - Click Reset
+2023-10-21 17:17:01.866 [main] INFO  TestCases.LoginTests - Validate all fields got empty
+2023-10-21 17:17:02.036 [main] INFO  TestCases.LoginTests - Select the record that needs to be deleted found from above search record
+2023-10-21 17:17:02.536 [main] INFO  TestCases.LoginTests - click the delete button on the selected checkbox
+2023-10-21 17:17:02.746 [main] INFO  TestCases.LoginTests - Validate that record got deleted by performing search again- it shouldn't come in search again
+2023-10-21 17:17:02.746 [main] INFO  TestCases.LoginTests - Send Username
+2023-10-21 17:17:02.877 [main] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 17:17:02.982 [main] INFO  TestCases.LoginTests - Semding partial text and selecting
+2023-10-21 17:17:08.210 [main] INFO  TestCases.LoginTests - Select status to enabled
+2023-10-21 17:17:08.317 [main] INFO  TestCases.LoginTests - Click search button
+2023-10-21 17:17:18.762 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 17:17:50.348 [main] INFO  TestCases.LoginTests - Validate the above entered values from table record fetched
+2023-10-21 17:17:54.796 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 17:17:57.842 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 17:17:58.374 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 17:17:58.397 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 17:18:00.248 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 17:18:04.206 [main] INFO  TestCases.LoginTests - Click Add Button
+2023-10-21 17:18:06.141 [main] INFO  TestCases.LoginTests - Switch to Add UserPage
+2023-10-21 17:18:33.048 [main] INFO  TestCases.LoginTests - Click Reset
+2023-10-21 17:18:33.054 [main] INFO  TestCases.LoginTests - Select the record that needs to be deleted found from above search record
+2023-10-21 17:26:57.031 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 17:27:00.038 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 17:27:00.461 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 17:27:00.552 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 17:27:01.902 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 17:27:06.857 [main] INFO  TestCases.LoginTests - Click Add Button
+2023-10-21 17:27:08.460 [main] INFO  TestCases.LoginTests - Switch to Add UserPage
+2023-10-21 17:27:44.860 [main] INFO  TestCases.LoginTests - User added above should appear in search
+2023-10-21 17:27:44.861 [main] INFO  TestCases.LoginTests - Send Username
+2023-10-21 17:27:45.074 [main] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 17:27:45.155 [main] INFO  TestCases.LoginTests - Semding partial text and selecting
+2023-10-21 17:27:50.370 [main] INFO  TestCases.LoginTests - Select status to enabled
+2023-10-21 17:27:50.418 [main] INFO  TestCases.LoginTests - Click search button
+2023-10-21 17:27:51.131 [main] INFO  TestCases.LoginTests - Click Reset
+2023-10-21 17:27:51.179 [main] INFO  TestCases.LoginTests - Validate all fields got empty
+2023-10-21 17:27:51.256 [main] INFO  TestCases.LoginTests - Select the record that needs to be deleted found from above search record
+2023-10-21 17:27:51.709 [main] INFO  TestCases.LoginTests - click the delete button on the selected checkbox
+2023-10-21 17:27:51.812 [main] INFO  TestCases.LoginTests - Validate that record got deleted by performing search again- it shouldn't come in search again
+2023-10-21 17:27:51.814 [main] INFO  TestCases.LoginTests - Send Username
+2023-10-21 17:27:51.890 [main] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 17:27:51.937 [main] INFO  TestCases.LoginTests - Semding partial text and selecting
+2023-10-21 17:27:57.024 [main] INFO  TestCases.LoginTests - Select status to enabled
+2023-10-21 17:27:57.068 [main] INFO  TestCases.LoginTests - Click search button
+2023-10-21 17:28:07.495 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 17:28:38.258 [main] INFO  TestCases.LoginTests - Validate the above entered values from table record fetched
+2023-10-21 17:28:41.585 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 17:28:44.491 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 17:28:44.907 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 17:28:44.921 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 17:28:46.162 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 17:28:49.451 [main] INFO  TestCases.LoginTests - Click Add Button
+2023-10-21 17:28:50.802 [main] INFO  TestCases.LoginTests - Switch to Add UserPage
+2023-10-21 17:29:27.110 [main] INFO  TestCases.LoginTests - User added above should appear in search
+2023-10-21 17:29:27.111 [main] INFO  TestCases.LoginTests - Send Username
+2023-10-21 17:29:27.158 [main] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 17:29:27.414 [main] INFO  TestCases.LoginTests - Semding partial text and selecting
+2023-10-21 17:29:32.490 [main] INFO  TestCases.LoginTests - Select status to enabled
+2023-10-21 17:29:32.734 [main] INFO  TestCases.LoginTests - Click search button
+2023-10-21 17:29:33.548 [main] INFO  TestCases.LoginTests - Click Reset
+2023-10-21 17:29:33.768 [main] INFO  TestCases.LoginTests - Validate all fields got empty
+2023-10-21 17:29:33.810 [main] INFO  TestCases.LoginTests - Select the record that needs to be deleted found from above search record
+2023-10-21 17:29:34.343 [main] INFO  TestCases.LoginTests - click the delete button on the selected checkbox
+2023-10-21 17:29:34.826 [main] INFO  TestCases.LoginTests - Validate that record got deleted by performing search again- it shouldn't come in search again
+2023-10-21 17:29:34.827 [main] INFO  TestCases.LoginTests - Send Username
+2023-10-21 17:29:34.856 [main] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 17:29:35.086 [main] INFO  TestCases.LoginTests - Semding partial text and selecting
+2023-10-21 17:29:40.148 [main] INFO  TestCases.LoginTests - Select status to enabled
+2023-10-21 17:29:40.401 [main] INFO  TestCases.LoginTests - Click search button
+2023-10-21 17:29:50.521 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 17:30:21.484 [main] INFO  TestCases.LoginTests - Validate the above entered values from table record fetched
+2023-10-21 17:47:43.193 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 17:47:54.208 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 17:47:55.005 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 17:47:55.104 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 17:47:56.386 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 17:47:59.571 [main] INFO  TestCases.LoginTests - Click Add Button
+2023-10-21 17:48:00.431 [main] INFO  TestCases.LoginTests - Switch to Add UserPage
+2023-10-21 17:48:36.699 [main] INFO  TestCases.LoginTests - User added above should appear in search
+2023-10-21 17:48:36.700 [main] INFO  TestCases.LoginTests - Send Username
+2023-10-21 17:48:36.894 [main] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 17:48:38.054 [main] INFO  TestCases.LoginTests - Click Reset
+2023-10-21 17:48:38.678 [main] INFO  TestCases.LoginTests - Validate all fields got empty
+2023-10-21 17:48:39.378 [main] INFO  TestCases.LoginTests - Select the record that needs to be deleted found from above search record
+2023-10-21 17:48:39.798 [main] INFO  TestCases.LoginTests - click the delete button on the selected checkbox
+2023-10-21 17:48:39.988 [main] INFO  TestCases.LoginTests - Validate that record got deleted by performing search again- it shouldn't come in search again
+2023-10-21 17:48:39.989 [main] INFO  TestCases.LoginTests - Send Username
+2023-10-21 17:48:40.130 [main] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 17:48:40.233 [main] INFO  TestCases.LoginTests - Semding partial text and selecting
+2023-10-21 17:48:45.435 [main] INFO  TestCases.LoginTests - Select status to enabled
+2023-10-21 17:48:45.536 [main] INFO  TestCases.LoginTests - Click search button
+2023-10-21 17:48:55.745 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 17:49:26.808 [main] INFO  TestCases.LoginTests - Validate the above entered values from table record fetched
+2023-10-21 17:49:30.877 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 17:49:41.744 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 17:49:42.562 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 17:49:42.584 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 17:49:46.924 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 17:49:49.404 [main] INFO  TestCases.LoginTests - Click Add Button
+2023-10-21 17:49:50.427 [main] INFO  TestCases.LoginTests - Switch to Add UserPage
+2023-10-21 17:50:27.019 [main] INFO  TestCases.LoginTests - User added above should appear in search
+2023-10-21 17:50:27.020 [main] INFO  TestCases.LoginTests - Send Username
+2023-10-21 17:50:27.092 [main] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 17:50:27.355 [main] INFO  TestCases.LoginTests - Semding partial text and selecting
+2023-10-21 17:50:32.442 [main] INFO  TestCases.LoginTests - Select status to enabled
+2023-10-21 17:50:32.725 [main] INFO  TestCases.LoginTests - Click search button
+2023-10-21 17:50:33.564 [main] INFO  TestCases.LoginTests - Click Reset
+2023-10-21 17:50:33.808 [main] INFO  TestCases.LoginTests - Validate all fields got empty
+2023-10-21 17:50:33.938 [main] INFO  TestCases.LoginTests - Select the record that needs to be deleted found from above search record
+2023-10-21 17:50:34.179 [main] INFO  TestCases.LoginTests - click the delete button on the selected checkbox
+2023-10-21 17:50:34.710 [main] INFO  TestCases.LoginTests - Validate that record got deleted by performing search again- it shouldn't come in search again
+2023-10-21 17:50:34.711 [main] INFO  TestCases.LoginTests - Send Username
+2023-10-21 17:50:34.741 [main] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 17:50:35.014 [main] INFO  TestCases.LoginTests - Semding partial text and selecting
+2023-10-21 17:50:40.142 [main] INFO  TestCases.LoginTests - Select status to enabled
+2023-10-21 17:50:40.393 [main] INFO  TestCases.LoginTests - Click search button
+2023-10-21 17:50:50.815 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 17:51:21.825 [main] INFO  TestCases.LoginTests - Validate the above entered values from table record fetched
+2023-10-21 17:59:39.644 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 17:59:46.633 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 17:59:47.494 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 17:59:47.514 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 17:59:51.458 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 17:59:54.989 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 18:00:03.741 [main] INFO  TestCases.LoginTests - click forgot password link
+2023-10-21 18:00:06.411 [main] INFO  TestCases.LoginTests - Switch to Reset password Page
+2023-10-21 18:00:09.830 [main] INFO  TestCases.LoginTests - Test Passed
+2023-10-21 18:06:29.532 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 18:06:37.874 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 18:06:38.595 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 18:06:38.613 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 18:06:41.906 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 18:06:45.371 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 18:06:52.250 [main] INFO  TestCases.LoginTests - click forgot password link
+2023-10-21 18:06:54.832 [main] INFO  TestCases.LoginTests - Switch to Reset password Page
+2023-10-21 18:06:56.906 [main] INFO  TestCases.LoginTests - Test Passed
+2023-10-21 18:09:44.603 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 18:09:51.642 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 18:09:52.370 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 18:09:52.388 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 18:09:55.389 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 18:09:58.674 [main] INFO  TestCases.LoginTests - Click Add Button
+2023-10-21 18:09:59.660 [main] INFO  TestCases.LoginTests - Switch to Add UserPage
+2023-10-21 18:10:36.248 [main] INFO  TestCases.LoginTests - User added above should appear in search
+2023-10-21 18:10:36.250 [main] INFO  TestCases.LoginTests - Send Username
+2023-10-21 18:10:36.301 [main] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 18:10:36.552 [main] INFO  TestCases.LoginTests - Semding partial text and selecting
+2023-10-21 18:10:41.659 [main] INFO  TestCases.LoginTests - Select status to enabled
+2023-10-21 18:10:41.944 [main] INFO  TestCases.LoginTests - Click search button
+2023-10-21 18:10:42.835 [main] INFO  TestCases.LoginTests - Click Reset
+2023-10-21 18:10:43.097 [main] INFO  TestCases.LoginTests - Validate all fields got empty
+2023-10-21 18:10:43.156 [main] INFO  TestCases.LoginTests - Select the record that needs to be deleted found from above search record
+2023-10-21 18:10:43.708 [main] INFO  TestCases.LoginTests - click the delete button on the selected checkbox
+2023-10-21 18:10:44.236 [main] INFO  TestCases.LoginTests - Validate that record got deleted by performing search again- it shouldn't come in search again
+2023-10-21 18:10:44.237 [main] INFO  TestCases.LoginTests - Send Username
+2023-10-21 18:10:44.269 [main] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 18:10:44.517 [main] INFO  TestCases.LoginTests - Semding partial text and selecting
+2023-10-21 18:10:49.585 [main] INFO  TestCases.LoginTests - Select status to enabled
+2023-10-21 18:10:49.820 [main] INFO  TestCases.LoginTests - Click search button
+2023-10-21 18:11:00.262 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 18:11:31.489 [main] INFO  TestCases.LoginTests - Validate the above entered values from table record fetched
+2023-10-21 18:11:35.948 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 18:11:42.880 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 18:11:43.799 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 18:11:43.828 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 18:11:45.746 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 18:11:49.225 [main] INFO  TestCases.LoginTests - Click Add Button
+2023-10-21 18:11:50.756 [main] INFO  TestCases.LoginTests - Switch to Add UserPage
+2023-10-21 18:12:27.631 [main] INFO  TestCases.LoginTests - User added above should appear in search
+2023-10-21 18:12:27.634 [main] INFO  TestCases.LoginTests - Send Username
+2023-10-21 18:12:27.683 [main] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 18:12:27.927 [main] INFO  TestCases.LoginTests - Semding partial text and selecting
+2023-10-21 18:12:33.042 [main] INFO  TestCases.LoginTests - Select status to enabled
+2023-10-21 18:12:33.339 [main] INFO  TestCases.LoginTests - Click search button
+2023-10-21 18:12:42.864 [main] INFO  TestCases.LoginTests - Click Reset
+2023-10-21 18:12:43.503 [main] INFO  TestCases.LoginTests - Validate all fields got empty
+2023-10-21 18:12:44.005 [main] INFO  TestCases.LoginTests - Select the record that needs to be deleted found from above search record
+2023-10-21 18:12:44.574 [main] INFO  TestCases.LoginTests - click the delete button on the selected checkbox
+2023-10-21 18:13:36.186 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 18:14:07.330 [main] INFO  TestCases.LoginTests - Validate the above entered values from table record fetched
+2023-10-21 18:42:02.052 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 18:42:09.874 [main] INFO  TestCases.LoginTests - click forgot password link
+2023-10-21 18:42:11.876 [main] INFO  TestCases.LoginTests - Switch to Reset password Page
+2023-10-21 18:42:15.377 [main] INFO  TestCases.LoginTests - Test Passed
+2023-10-21 18:42:16.478 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 18:42:24.140 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 18:42:24.252 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 18:42:24.369 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 18:42:25.742 [main] INFO  TestCases.LoginTests - Test Passed
+2023-10-21 18:42:25.743 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 18:42:25.789 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 18:42:25.864 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 18:42:27.159 [main] INFO  TestCases.LoginTests - Test Passed
+2023-10-21 18:42:27.161 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 18:42:27.207 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 18:42:27.299 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 18:42:29.090 [main] INFO  TestCases.LoginTests - Test Passed
+2023-10-21 18:42:29.094 [main] INFO  TestCases.LoginTests - Get All links on login Page
+2023-10-21 18:42:29.145 [main] INFO  TestCases.LoginTests - Get href attributes for links
+2023-10-21 18:42:29.176 [main] INFO  TestCases.LoginTests - https://www.linkedin.com/company/orangehrm/mycompany/
+2023-10-21 18:42:29.959 [main] INFO  TestCases.LoginTests - Request denied
+2023-10-21 18:42:30.244 [main] INFO  TestCases.LoginTests - https://www.facebook.com/OrangeHRM/
+2023-10-21 18:42:30.531 [main] INFO  TestCases.LoginTests - OK
+2023-10-21 18:42:30.751 [main] INFO  TestCases.LoginTests - https://twitter.com/orangehrm?lang=en
+2023-10-21 18:42:30.963 [main] INFO  TestCases.LoginTests - OK
+2023-10-21 18:42:31.159 [main] INFO  TestCases.LoginTests - https://www.youtube.com/c/OrangeHRMInc
+2023-10-21 18:42:31.641 [main] INFO  TestCases.LoginTests - OK
+2023-10-21 18:42:31.836 [main] INFO  TestCases.LoginTests - http://www.orangehrm.com/
+2023-10-21 18:42:32.339 [main] INFO  TestCases.LoginTests - Moved Permanently
+2023-10-21 18:42:32.938 [main] INFO  TestCases.LoginTests - null
+2023-10-21 18:42:32.939 [main] ERROR TestCases.LoginTests - Cannot invoke "String.length()" because "spec" is null
+2023-10-21 18:42:32.962 [main] INFO  TestCases.LoginTests - null
+2023-10-21 18:42:32.963 [main] ERROR TestCases.LoginTests - Cannot invoke "String.length()" because "spec" is null
+2023-10-21 18:42:32.986 [main] INFO  TestCases.LoginTests - null
+2023-10-21 18:42:32.986 [main] ERROR TestCases.LoginTests - Cannot invoke "String.length()" because "spec" is null
+2023-10-21 18:42:32.990 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 18:42:33.085 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 18:42:33.255 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 18:42:34.454 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 18:42:37.491 [main] INFO  TestCases.LoginTests - Click Add Button
+2023-10-21 18:42:38.609 [main] INFO  TestCases.LoginTests - Switch to Add UserPage
+2023-10-21 18:43:14.788 [main] INFO  TestCases.LoginTests - User added above should appear in search
+2023-10-21 18:43:14.790 [main] INFO  TestCases.LoginTests - Send Username
+2023-10-21 18:43:14.938 [main] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 18:43:16.084 [main] INFO  TestCases.LoginTests - Click Reset
+2023-10-21 18:43:16.662 [main] INFO  TestCases.LoginTests - Validate all fields got empty
+2023-10-21 18:43:17.346 [main] INFO  TestCases.LoginTests - Select the record that needs to be deleted found from above search record
+2023-10-21 18:43:17.862 [main] INFO  TestCases.LoginTests - click the delete button on the selected checkbox
+2023-10-21 18:44:10.572 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 18:44:41.840 [main] INFO  TestCases.LoginTests - Validate the above entered values from table record fetched
+2023-10-21 18:44:46.530 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 18:44:54.457 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 18:44:55.307 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 18:44:55.365 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 18:44:57.902 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 18:44:58.317 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 18:44:58.333 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 18:44:58.650 [main] INFO  TestCases.LoginTests - Test Passed
+2023-10-21 18:44:58.651 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 18:44:58.676 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 18:44:58.697 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 18:44:58.987 [main] INFO  TestCases.LoginTests - Test Passed
+2023-10-21 18:44:58.989 [main] INFO  TestCases.LoginTests - Get All links on login Page
+2023-10-21 18:44:59.003 [main] INFO  TestCases.LoginTests - Get href attributes for links
+2023-10-21 18:44:59.019 [main] INFO  TestCases.LoginTests - https://www.linkedin.com/company/orangehrm/mycompany/
+2023-10-21 18:44:59.171 [main] INFO  TestCases.LoginTests - Request denied
+2023-10-21 18:44:59.517 [main] INFO  TestCases.LoginTests - https://www.facebook.com/OrangeHRM/
+2023-10-21 18:44:59.723 [main] INFO  TestCases.LoginTests - OK
+2023-10-21 18:44:59.937 [main] INFO  TestCases.LoginTests - https://twitter.com/orangehrm?lang=en
+2023-10-21 18:45:00.090 [main] INFO  TestCases.LoginTests - OK
+2023-10-21 18:45:00.374 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 18:45:01.044 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 18:45:01.087 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 18:45:01.326 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 18:45:08.838 [main] INFO  TestCases.LoginTests - Click Add Button
+2023-10-21 18:45:11.036 [main] INFO  TestCases.LoginTests - Switch to Add UserPage
+2023-10-21 18:45:47.701 [main] INFO  TestCases.LoginTests - User added above should appear in search
+2023-10-21 18:45:47.702 [main] INFO  TestCases.LoginTests - Send Username
+2023-10-21 18:45:47.762 [main] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 18:45:48.010 [main] INFO  TestCases.LoginTests - Semding partial text and selecting
+2023-10-21 18:45:53.114 [main] INFO  TestCases.LoginTests - Select status to enabled
+2023-10-21 18:45:53.365 [main] INFO  TestCases.LoginTests - Click search button
+2023-10-21 18:45:55.231 [main] INFO  TestCases.LoginTests - Click Reset
+2023-10-21 18:45:55.458 [main] INFO  TestCases.LoginTests - Validate all fields got empty
+2023-10-21 18:45:55.503 [main] INFO  TestCases.LoginTests - Select the record that needs to be deleted found from above search record
+2023-10-21 18:45:56.031 [main] INFO  TestCases.LoginTests - click the delete button on the selected checkbox
+2023-10-21 18:45:56.547 [main] INFO  TestCases.LoginTests - Validate that record got deleted by performing search again- it shouldn't come in search again
+2023-10-21 18:45:56.548 [main] INFO  TestCases.LoginTests - Send Username
+2023-10-21 18:45:56.598 [main] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 18:45:56.854 [main] INFO  TestCases.LoginTests - Semding partial text and selecting
+2023-10-21 18:46:01.921 [main] INFO  TestCases.LoginTests - Select status to enabled
+2023-10-21 18:46:02.176 [main] INFO  TestCases.LoginTests - Click search button
+2023-10-21 18:46:12.980 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 18:46:44.160 [main] INFO  TestCases.LoginTests - Validate the above entered values from table record fetched
+2023-10-21 18:51:23.237 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 18:51:28.750 [main] INFO  TestCases.LoginTests - click forgot password link
+2023-10-21 18:51:30.099 [main] INFO  TestCases.LoginTests - Switch to Reset password Page
+2023-10-21 18:51:32.605 [main] INFO  TestCases.LoginTests - Test Passed
+2023-10-21 18:51:33.867 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 18:51:40.522 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 18:51:40.604 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 18:51:40.709 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 18:51:42.180 [main] INFO  TestCases.LoginTests - Test Passed
+2023-10-21 18:51:42.183 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 18:51:42.281 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 18:51:42.422 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 18:51:43.796 [main] INFO  TestCases.LoginTests - Test Passed
+2023-10-21 18:51:43.798 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 18:51:43.868 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 18:51:43.971 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 18:51:45.589 [main] INFO  TestCases.LoginTests - Test Passed
+2023-10-21 18:51:45.593 [main] INFO  TestCases.LoginTests - Get All links on login Page
+2023-10-21 18:51:45.654 [main] INFO  TestCases.LoginTests - Get href attributes for links
+2023-10-21 18:51:45.691 [main] INFO  TestCases.LoginTests - https://www.linkedin.com/company/orangehrm/mycompany/
+2023-10-21 18:51:46.254 [main] INFO  TestCases.LoginTests - Request denied
+2023-10-21 18:51:46.593 [main] INFO  TestCases.LoginTests - https://www.facebook.com/OrangeHRM/
+2023-10-21 18:51:46.866 [main] INFO  TestCases.LoginTests - OK
+2023-10-21 18:51:47.072 [main] INFO  TestCases.LoginTests - https://twitter.com/orangehrm?lang=en
+2023-10-21 18:51:47.265 [main] INFO  TestCases.LoginTests - OK
+2023-10-21 18:51:47.474 [main] INFO  TestCases.LoginTests - https://www.youtube.com/c/OrangeHRMInc
+2023-10-21 18:51:47.895 [main] INFO  TestCases.LoginTests - OK
+2023-10-21 18:51:48.097 [main] INFO  TestCases.LoginTests - http://www.orangehrm.com/
+2023-10-21 18:51:48.402 [main] INFO  TestCases.LoginTests - Moved Permanently
+2023-10-21 18:51:48.958 [main] INFO  TestCases.LoginTests - null
+2023-10-21 18:51:48.961 [main] ERROR TestCases.LoginTests - Cannot invoke "String.length()" because "spec" is null
+2023-10-21 18:51:48.991 [main] INFO  TestCases.LoginTests - null
+2023-10-21 18:51:48.992 [main] ERROR TestCases.LoginTests - Cannot invoke "String.length()" because "spec" is null
+2023-10-21 18:51:49.015 [main] INFO  TestCases.LoginTests - null
+2023-10-21 18:51:49.016 [main] ERROR TestCases.LoginTests - Cannot invoke "String.length()" because "spec" is null
+2023-10-21 18:51:49.020 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 18:51:49.115 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 18:51:49.216 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 18:51:50.357 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 18:51:53.532 [main] INFO  TestCases.LoginTests - Click Add Button
+2023-10-21 18:51:54.506 [main] INFO  TestCases.LoginTests - Switch to Add UserPage
+2023-10-21 18:52:31.072 [main] INFO  TestCases.LoginTests - User added above should appear in search
+2023-10-21 18:52:31.073 [main] INFO  TestCases.LoginTests - Send Username
+2023-10-21 18:52:31.264 [main] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 18:52:31.367 [main] INFO  TestCases.LoginTests - Semding partial text and selecting
+2023-10-21 18:52:36.577 [main] INFO  TestCases.LoginTests - Select status to enabled
+2023-10-21 18:52:36.652 [main] INFO  TestCases.LoginTests - Click search button
+2023-10-21 18:52:37.392 [main] INFO  TestCases.LoginTests - Click Reset
+2023-10-21 18:52:37.474 [main] INFO  TestCases.LoginTests - Validate all fields got empty
+2023-10-21 18:52:37.643 [main] INFO  TestCases.LoginTests - Select the record that needs to be deleted found from above search record
+2023-10-21 18:52:38.058 [main] INFO  TestCases.LoginTests - click the delete button on the selected checkbox
+2023-10-21 18:52:38.218 [main] INFO  TestCases.LoginTests - Validate that record got deleted by performing search again- it shouldn't come in search again
+2023-10-21 18:52:38.218 [main] INFO  TestCases.LoginTests - Send Username
+2023-10-21 18:52:38.313 [main] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 18:52:38.408 [main] INFO  TestCases.LoginTests - Semding partial text and selecting
+2023-10-21 18:52:43.581 [main] INFO  TestCases.LoginTests - Select status to enabled
+2023-10-21 18:52:43.742 [main] INFO  TestCases.LoginTests - Click search button
+2023-10-21 18:52:54.107 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 18:53:25.184 [main] INFO  TestCases.LoginTests - Validate the above entered values from table record fetched
+2023-10-21 18:53:28.775 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 18:53:35.465 [main] INFO  TestCases.LoginTests - click forgot password link
+2023-10-21 18:53:37.753 [main] INFO  TestCases.LoginTests - Switch to Reset password Page
+2023-10-21 18:53:40.281 [main] INFO  TestCases.LoginTests - Test Passed
+2023-10-21 18:53:43.529 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 18:53:48.850 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 18:53:49.501 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 18:53:49.530 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 18:53:52.236 [main] INFO  TestCases.LoginTests - Test Passed
+2023-10-21 18:53:52.238 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 18:53:52.263 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 18:53:52.283 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 18:53:52.528 [main] INFO  TestCases.LoginTests - Test Passed
+2023-10-21 18:53:52.530 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 18:53:52.553 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 18:53:52.569 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 18:53:52.855 [main] INFO  TestCases.LoginTests - Test Passed
+2023-10-21 18:53:52.856 [main] INFO  TestCases.LoginTests - Get All links on login Page
+2023-10-21 18:53:52.872 [main] INFO  TestCases.LoginTests - Get href attributes for links
+2023-10-21 18:53:52.893 [main] INFO  TestCases.LoginTests - https://www.linkedin.com/company/orangehrm/mycompany/
+2023-10-21 18:53:53.045 [main] INFO  TestCases.LoginTests - Request denied
+2023-10-21 18:53:53.421 [main] INFO  TestCases.LoginTests - https://www.facebook.com/OrangeHRM/
+2023-10-21 18:53:53.594 [main] INFO  TestCases.LoginTests - OK
+2023-10-21 18:53:53.807 [main] INFO  TestCases.LoginTests - https://twitter.com/orangehrm?lang=en
+2023-10-21 18:53:54.011 [main] INFO  TestCases.LoginTests - OK
+2023-10-21 18:53:54.204 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 18:53:55.295 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 18:53:55.317 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 18:53:55.562 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 18:54:01.616 [main] INFO  TestCases.LoginTests - Click Add Button
+2023-10-21 18:54:03.638 [main] INFO  TestCases.LoginTests - Switch to Add UserPage
+2023-10-21 18:54:40.181 [main] INFO  TestCases.LoginTests - User added above should appear in search
+2023-10-21 18:54:40.181 [main] INFO  TestCases.LoginTests - Send Username
+2023-10-21 18:54:40.233 [main] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 18:54:40.492 [main] INFO  TestCases.LoginTests - Semding partial text and selecting
+2023-10-21 18:54:45.559 [main] INFO  TestCases.LoginTests - Select status to enabled
+2023-10-21 18:54:45.815 [main] INFO  TestCases.LoginTests - Click search button
+2023-10-21 18:54:47.725 [main] INFO  TestCases.LoginTests - Click Reset
+2023-10-21 18:54:47.969 [main] INFO  TestCases.LoginTests - Validate all fields got empty
+2023-10-21 18:54:48.044 [main] INFO  TestCases.LoginTests - Select the record that needs to be deleted found from above search record
+2023-10-21 18:54:48.606 [main] INFO  TestCases.LoginTests - click the delete button on the selected checkbox
+2023-10-21 18:54:49.122 [main] INFO  TestCases.LoginTests - Validate that record got deleted by performing search again- it shouldn't come in search again
+2023-10-21 18:54:49.123 [main] INFO  TestCases.LoginTests - Send Username
+2023-10-21 18:54:49.174 [main] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 18:54:49.432 [main] INFO  TestCases.LoginTests - Semding partial text and selecting
+2023-10-21 18:54:54.494 [main] INFO  TestCases.LoginTests - Select status to enabled
+2023-10-21 18:54:54.761 [main] INFO  TestCases.LoginTests - Click search button
+2023-10-21 18:55:05.865 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 18:55:37.077 [main] INFO  TestCases.LoginTests - Validate the above entered values from table record fetched
+2023-10-21 22:01:47.907 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 22:01:58.530 [main] INFO  TestCases.LoginTests - click forgot password link
+2023-10-21 22:01:59.910 [main] INFO  TestCases.LoginTests - Switch to Reset password Page
+2023-10-21 22:02:02.328 [main] INFO  TestCases.LoginTests - Test Passed
+2023-10-21 22:02:03.431 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 22:02:07.085 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 22:02:07.161 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 22:02:07.346 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 22:02:09.083 [main] INFO  TestCases.LoginTests - Test Passed
+2023-10-21 22:02:09.085 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 22:02:09.157 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 22:02:09.252 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 22:02:10.937 [main] INFO  TestCases.LoginTests - Test Passed
+2023-10-21 22:02:10.939 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 22:02:10.996 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 22:02:11.145 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 22:02:13.066 [main] INFO  TestCases.LoginTests - Test Passed
+2023-10-21 22:02:13.069 [main] INFO  TestCases.LoginTests - Get All links on login Page
+2023-10-21 22:02:13.128 [main] INFO  TestCases.LoginTests - Get href attributes for links
+2023-10-21 22:02:13.163 [main] INFO  TestCases.LoginTests - https://www.linkedin.com/company/orangehrm/mycompany/
+2023-10-21 22:02:13.956 [main] INFO  TestCases.LoginTests - Request denied
+2023-10-21 22:02:14.301 [main] INFO  TestCases.LoginTests - https://www.facebook.com/OrangeHRM/
+2023-10-21 22:02:14.570 [main] INFO  TestCases.LoginTests - OK
+2023-10-21 22:02:14.817 [main] INFO  TestCases.LoginTests - https://twitter.com/orangehrm?lang=en
+2023-10-21 22:02:15.025 [main] INFO  TestCases.LoginTests - OK
+2023-10-21 22:02:15.222 [main] INFO  TestCases.LoginTests - https://www.youtube.com/c/OrangeHRMInc
+2023-10-21 22:02:15.652 [main] INFO  TestCases.LoginTests - OK
+2023-10-21 22:02:15.839 [main] INFO  TestCases.LoginTests - http://www.orangehrm.com/
+2023-10-21 22:02:16.183 [main] INFO  TestCases.LoginTests - Moved Permanently
+2023-10-21 22:02:16.760 [main] INFO  TestCases.LoginTests - null
+2023-10-21 22:02:16.761 [main] ERROR TestCases.LoginTests - Cannot invoke "String.length()" because "spec" is null
+2023-10-21 22:02:16.786 [main] INFO  TestCases.LoginTests - null
+2023-10-21 22:02:16.786 [main] ERROR TestCases.LoginTests - Cannot invoke "String.length()" because "spec" is null
+2023-10-21 22:02:16.809 [main] INFO  TestCases.LoginTests - null
+2023-10-21 22:02:16.810 [main] ERROR TestCases.LoginTests - Cannot invoke "String.length()" because "spec" is null
+2023-10-21 22:02:16.813 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 22:02:16.906 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 22:02:17.021 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 22:02:18.289 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 22:02:21.677 [main] INFO  TestCases.LoginTests - Click Add Button
+2023-10-21 22:02:22.573 [main] INFO  TestCases.LoginTests - Switch to Add UserPage
+2023-10-21 22:02:58.812 [main] INFO  TestCases.LoginTests - User added above should appear in search
+2023-10-21 22:02:58.813 [main] INFO  TestCases.LoginTests - Send Username
+2023-10-21 22:02:59.024 [main] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 22:03:00.545 [main] INFO  TestCases.LoginTests - Click Reset
+2023-10-21 22:03:01.066 [main] INFO  TestCases.LoginTests - Validate all fields got empty
+2023-10-21 22:03:01.712 [main] INFO  TestCases.LoginTests - Select the record that needs to be deleted found from above search record
+2023-10-21 22:03:02.195 [main] INFO  TestCases.LoginTests - click the delete button on the selected checkbox
+2023-10-21 22:03:02.422 [main] INFO  TestCases.LoginTests - Validate that record got deleted by performing search again- it shouldn't come in search again
+2023-10-21 22:03:02.423 [main] INFO  TestCases.LoginTests - Send Username
+2023-10-21 22:03:02.556 [main] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 22:03:02.659 [main] INFO  TestCases.LoginTests - Semding partial text and selecting
+2023-10-21 22:03:07.897 [main] INFO  TestCases.LoginTests - Select status to enabled
+2023-10-21 22:03:08.029 [main] INFO  TestCases.LoginTests - Click search button
+2023-10-21 22:03:18.398 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 22:03:49.427 [main] INFO  TestCases.LoginTests - Validate the above entered values from table record fetched
+2023-10-21 22:03:54.865 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 22:03:58.305 [main] INFO  TestCases.LoginTests - click forgot password link
+2023-10-21 22:04:00.740 [main] INFO  TestCases.LoginTests - Switch to Reset password Page
+2023-10-21 22:04:03.265 [main] INFO  TestCases.LoginTests - Test Passed
+2023-10-21 22:04:06.082 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 22:04:09.235 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 22:04:09.635 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 22:04:09.650 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 22:04:11.635 [main] INFO  TestCases.LoginTests - Test Passed
+2023-10-21 22:04:11.638 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 22:04:11.660 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 22:04:11.681 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 22:04:13.592 [main] INFO  TestCases.LoginTests - Test Passed
+2023-10-21 22:04:13.593 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 22:04:13.615 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 22:04:13.637 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 22:04:16.409 [main] INFO  TestCases.LoginTests - Test Passed
+2023-10-21 22:04:16.412 [main] INFO  TestCases.LoginTests - Get All links on login Page
+2023-10-21 22:04:16.428 [main] INFO  TestCases.LoginTests - Get href attributes for links
+2023-10-21 22:04:16.446 [main] INFO  TestCases.LoginTests - https://www.linkedin.com/company/orangehrm/mycompany/
+2023-10-21 22:04:16.623 [main] INFO  TestCases.LoginTests - Request denied
+2023-10-21 22:04:17.008 [main] INFO  TestCases.LoginTests - https://www.facebook.com/OrangeHRM/
+2023-10-21 22:04:17.209 [main] INFO  TestCases.LoginTests - OK
+2023-10-21 22:04:17.455 [main] INFO  TestCases.LoginTests - https://twitter.com/orangehrm?lang=en
+2023-10-21 22:04:17.643 [main] INFO  TestCases.LoginTests - OK
+2023-10-21 22:04:17.844 [main] INFO  TestCases.LoginTests - https://www.youtube.com/c/OrangeHRMInc
+2023-10-21 22:04:17.999 [main] INFO  TestCases.LoginTests - OK
+2023-10-21 22:04:18.176 [main] INFO  TestCases.LoginTests - http://www.orangehrm.com/
+2023-10-21 22:04:18.362 [main] INFO  TestCases.LoginTests - Moved Permanently
+2023-10-21 22:04:18.926 [main] INFO  TestCases.LoginTests - null
+2023-10-21 22:04:18.927 [main] ERROR TestCases.LoginTests - null
+2023-10-21 22:04:18.947 [main] INFO  TestCases.LoginTests - null
+2023-10-21 22:04:18.948 [main] ERROR TestCases.LoginTests - null
+2023-10-21 22:04:18.964 [main] INFO  TestCases.LoginTests - null
+2023-10-21 22:04:18.964 [main] ERROR TestCases.LoginTests - null
+2023-10-21 22:04:18.967 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 22:04:18.992 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 22:04:19.015 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 22:04:20.249 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 22:04:23.835 [main] INFO  TestCases.LoginTests - Click Add Button
+2023-10-21 22:04:25.264 [main] INFO  TestCases.LoginTests - Switch to Add UserPage
+2023-10-21 22:05:01.940 [main] INFO  TestCases.LoginTests - User added above should appear in search
+2023-10-21 22:05:01.941 [main] INFO  TestCases.LoginTests - Send Username
+2023-10-21 22:05:02.017 [main] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 22:05:02.299 [main] INFO  TestCases.LoginTests - Semding partial text and selecting
+2023-10-21 22:05:07.448 [main] INFO  TestCases.LoginTests - Select status to enabled
+2023-10-21 22:05:07.735 [main] INFO  TestCases.LoginTests - Click search button
+2023-10-21 22:05:08.588 [main] INFO  TestCases.LoginTests - Click Reset
+2023-10-21 22:05:08.828 [main] INFO  TestCases.LoginTests - Validate all fields got empty
+2023-10-21 22:05:08.941 [main] INFO  TestCases.LoginTests - Select the record that needs to be deleted found from above search record
+2023-10-21 22:05:09.562 [main] INFO  TestCases.LoginTests - click the delete button on the selected checkbox
+2023-10-21 22:05:10.090 [main] INFO  TestCases.LoginTests - Validate that record got deleted by performing search again- it shouldn't come in search again
+2023-10-21 22:05:10.091 [main] INFO  TestCases.LoginTests - Send Username
+2023-10-21 22:05:10.119 [main] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 22:05:10.375 [main] INFO  TestCases.LoginTests - Semding partial text and selecting
+2023-10-21 22:05:15.448 [main] INFO  TestCases.LoginTests - Select status to enabled
+2023-10-21 22:05:15.673 [main] INFO  TestCases.LoginTests - Click search button
+2023-10-21 22:05:26.433 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 22:13:56.162 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 22:13:58.774 [main] INFO  TestCases.LoginTests - click forgot password link
+2023-10-21 22:13:59.785 [main] INFO  TestCases.LoginTests - Switch to Reset password Page
+2023-10-21 22:14:01.947 [main] INFO  TestCases.LoginTests - Test Passed
+2023-10-21 22:14:02.833 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 22:14:05.839 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 22:14:05.905 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 22:14:05.972 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 22:14:07.485 [main] INFO  TestCases.LoginTests - Test Passed
+2023-10-21 22:14:07.485 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 22:14:07.532 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 22:14:07.593 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 22:14:09.044 [main] INFO  TestCases.LoginTests - Test Passed
+2023-10-21 22:14:09.045 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 22:14:09.091 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 22:14:09.165 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 22:14:10.968 [main] INFO  TestCases.LoginTests - Test Passed
+2023-10-21 22:14:10.971 [main] INFO  TestCases.LoginTests - Get All links on login Page
+2023-10-21 22:14:11.006 [main] INFO  TestCases.LoginTests - Get href attributes for links
+2023-10-21 22:14:11.025 [main] INFO  TestCases.LoginTests - https://www.linkedin.com/company/orangehrm/mycompany/
+2023-10-21 22:14:11.506 [main] INFO  TestCases.LoginTests - Request denied
+2023-10-21 22:14:11.780 [main] INFO  TestCases.LoginTests - https://www.facebook.com/OrangeHRM/
+2023-10-21 22:14:12.030 [main] INFO  TestCases.LoginTests - OK
+2023-10-21 22:14:12.260 [main] INFO  TestCases.LoginTests - https://twitter.com/orangehrm?lang=en
+2023-10-21 22:14:12.434 [main] INFO  TestCases.LoginTests - OK
+2023-10-21 22:14:12.597 [main] INFO  TestCases.LoginTests - https://www.youtube.com/c/OrangeHRMInc
+2023-10-21 22:14:12.863 [main] INFO  TestCases.LoginTests - OK
+2023-10-21 22:14:13.055 [main] INFO  TestCases.LoginTests - http://www.orangehrm.com/
+2023-10-21 22:14:13.361 [main] INFO  TestCases.LoginTests - Moved Permanently
+2023-10-21 22:14:13.931 [main] INFO  TestCases.LoginTests - null
+2023-10-21 22:14:13.931 [main] ERROR TestCases.LoginTests - Cannot invoke "String.length()" because "spec" is null
+2023-10-21 22:14:13.941 [main] INFO  TestCases.LoginTests - null
+2023-10-21 22:14:13.941 [main] ERROR TestCases.LoginTests - Cannot invoke "String.length()" because "spec" is null
+2023-10-21 22:14:13.949 [main] INFO  TestCases.LoginTests - null
+2023-10-21 22:14:13.949 [main] ERROR TestCases.LoginTests - Cannot invoke "String.length()" because "spec" is null
+2023-10-21 22:14:13.951 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 22:14:13.996 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 22:14:14.077 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 22:14:15.319 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 22:14:18.284 [main] INFO  TestCases.LoginTests - Click Add Button
+2023-10-21 22:14:19.181 [main] INFO  TestCases.LoginTests - Switch to Add UserPage
+2023-10-21 22:14:55.041 [main] INFO  TestCases.LoginTests - User added above should appear in search
+2023-10-21 22:14:55.043 [main] INFO  TestCases.LoginTests - Send Username
+2023-10-21 22:14:55.132 [main] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 22:14:55.174 [main] INFO  TestCases.LoginTests - Semding partial text and selecting
+2023-10-21 22:15:00.262 [main] INFO  TestCases.LoginTests - Select status to enabled
+2023-10-21 22:15:00.317 [main] INFO  TestCases.LoginTests - Click search button
+2023-10-21 22:15:00.919 [main] INFO  TestCases.LoginTests - Click Reset
+2023-10-21 22:15:00.970 [main] INFO  TestCases.LoginTests - Validate all fields got empty
+2023-10-21 22:15:01.043 [main] INFO  TestCases.LoginTests - Select the record that needs to be deleted found from above search record
+2023-10-21 22:15:01.443 [main] INFO  TestCases.LoginTests - click the delete button on the selected checkbox
+2023-10-21 22:15:01.550 [main] INFO  TestCases.LoginTests - Validate that record got deleted by performing search again- it shouldn't come in search again
+2023-10-21 22:15:01.550 [main] INFO  TestCases.LoginTests - Send Username
+2023-10-21 22:15:01.612 [main] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 22:15:01.659 [main] INFO  TestCases.LoginTests - Semding partial text and selecting
+2023-10-21 22:15:06.761 [main] INFO  TestCases.LoginTests - Select status to enabled
+2023-10-21 22:15:06.807 [main] INFO  TestCases.LoginTests - Click search button
+2023-10-21 22:15:17.269 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 22:15:48.040 [main] INFO  TestCases.LoginTests - Validate the above entered values from table record fetched
+2023-10-21 22:15:52.723 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 22:15:56.162 [main] INFO  TestCases.LoginTests - click forgot password link
+2023-10-21 22:15:58.101 [main] INFO  TestCases.LoginTests - Switch to Reset password Page
+2023-10-21 22:16:00.375 [main] INFO  TestCases.LoginTests - Test Passed
+2023-10-21 22:16:03.615 [main] ERROR TestCases.LoginTests - Loading the HRM Logo Page
+2023-10-21 22:16:06.983 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 22:16:07.371 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 22:16:07.388 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 22:16:09.343 [main] INFO  TestCases.LoginTests - Test Passed
+2023-10-21 22:16:09.347 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 22:16:09.408 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 22:16:09.484 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 22:16:11.274 [main] INFO  TestCases.LoginTests - Test Passed
+2023-10-21 22:16:11.278 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 22:16:11.334 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 22:16:11.375 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 22:16:13.449 [main] INFO  TestCases.LoginTests - Test Passed
+2023-10-21 22:16:13.451 [main] INFO  TestCases.LoginTests - Get All links on login Page
+2023-10-21 22:16:13.465 [main] INFO  TestCases.LoginTests - Get href attributes for links
+2023-10-21 22:16:13.490 [main] INFO  TestCases.LoginTests - https://www.linkedin.com/company/orangehrm/mycompany/
+2023-10-21 22:16:13.605 [main] INFO  TestCases.LoginTests - Request denied
+2023-10-21 22:16:13.878 [main] INFO  TestCases.LoginTests - https://www.facebook.com/OrangeHRM/
+2023-10-21 22:16:14.115 [main] INFO  TestCases.LoginTests - OK
+2023-10-21 22:16:14.345 [main] INFO  TestCases.LoginTests - https://twitter.com/orangehrm?lang=en
+2023-10-21 22:16:14.501 [main] INFO  TestCases.LoginTests - OK
+2023-10-21 22:16:14.701 [main] INFO  TestCases.LoginTests - https://www.youtube.com/c/OrangeHRMInc
+2023-10-21 22:16:14.897 [main] INFO  TestCases.LoginTests - OK
+2023-10-21 22:16:15.099 [main] INFO  TestCases.LoginTests - http://www.orangehrm.com/
+2023-10-21 22:16:15.287 [main] INFO  TestCases.LoginTests - Moved Permanently
+2023-10-21 22:16:15.862 [main] INFO  TestCases.LoginTests - null
+2023-10-21 22:16:15.862 [main] ERROR TestCases.LoginTests - null
+2023-10-21 22:16:15.887 [main] INFO  TestCases.LoginTests - null
+2023-10-21 22:16:15.888 [main] ERROR TestCases.LoginTests - null
+2023-10-21 22:16:15.913 [main] INFO  TestCases.LoginTests - null
+2023-10-21 22:16:15.913 [main] ERROR TestCases.LoginTests - null
+2023-10-21 22:16:15.915 [main] INFO  TestCases.LoginTests - Sending Username
+2023-10-21 22:16:15.943 [main] INFO  TestCases.LoginTests - Sending Password
+2023-10-21 22:16:15.972 [main] INFO  TestCases.LoginTests - Clicking login button
+2023-10-21 22:16:17.149 [main] INFO  TestCases.LoginTests - OrangeHRM
+2023-10-21 22:16:20.672 [main] INFO  TestCases.LoginTests - Click Add Button
+2023-10-21 22:16:22.356 [main] INFO  TestCases.LoginTests - Switch to Add UserPage
+2023-10-21 22:16:59.013 [main] INFO  TestCases.LoginTests - User added above should appear in search
+2023-10-21 22:16:59.013 [main] INFO  TestCases.LoginTests - Send Username
+2023-10-21 22:16:59.034 [main] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 22:16:59.271 [main] INFO  TestCases.LoginTests - Semding partial text and selecting
+2023-10-21 22:17:04.367 [main] INFO  TestCases.LoginTests - Select status to enabled
+2023-10-21 22:17:04.630 [main] INFO  TestCases.LoginTests - Click search button
+2023-10-21 22:17:05.440 [main] INFO  TestCases.LoginTests - Click Reset
+2023-10-21 22:17:05.695 [main] INFO  TestCases.LoginTests - Validate all fields got empty
+2023-10-21 22:17:05.755 [main] INFO  TestCases.LoginTests - Select the record that needs to be deleted found from above search record
+2023-10-21 22:17:06.303 [main] INFO  TestCases.LoginTests - click the delete button on the selected checkbox
+2023-10-21 22:17:06.818 [main] INFO  TestCases.LoginTests - Validate that record got deleted by performing search again- it shouldn't come in search again
+2023-10-21 22:17:06.818 [main] INFO  TestCases.LoginTests - Send Username
+2023-10-21 22:17:06.874 [main] INFO  TestCases.LoginTests - Selecting User role Admin
+2023-10-21 22:17:07.146 [main] INFO  TestCases.LoginTests - Semding partial text and selecting
+2023-10-21 22:17:12.229 [main] INFO  TestCases.LoginTests - Select status to enabled
+2023-10-21 22:17:12.508 [main] INFO  TestCases.LoginTests - Click search button
+2023-10-21 22:17:23.036 [main] INFO  TestCases.LoginTests - Switch to Leave list Page
+2023-10-21 22:17:54.111 [main] INFO  TestCases.LoginTests - Validate the above entered values from table record fetched

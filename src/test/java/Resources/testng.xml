@@ -1,0 +1,21 @@
+<suite name="Regression" paralel="tests" thread-count="2">
+    <test name="LoginTest_Chrome">
+        <parameter name="browser" value="chrome" />
+        <classes>
+            <class name="TestCases.ResetPasswordTest"/>
+            <class name="TestCases.LoginTests" />
+            <class name="TestCases.UserManagementTest" />
+            <class name="TestCases.LeaveTest" />
+        </classes>
+    </test>
+    <test name="LoginTest_FireFox">
+        <parameter name="browser" value="firefox" />
+        <classes>
+            <class name="TestCases.ResetPasswordTest"/>
+            <class name="TestCases.LoginTests" />
+            <class name="TestCases.UserManagementTest" />
+            <class name="TestCases.LeaveTest" />
+        </classes>
+    </test>
+
+</suite>
