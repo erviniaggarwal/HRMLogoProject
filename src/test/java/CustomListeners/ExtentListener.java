@@ -36,11 +36,13 @@ public class ExtentListener implements ITestListener {
         WebDriver driver = BaseTest.getInstance();
         TakesScreenshot screenshotDriver = (TakesScreenshot) driver;
         File screenshot = screenshotDriver.getScreenshotAs(OutputType.FILE);
-        String destination = System.getProperty("user.dir") + "/screenshots/screenshot.png";
+        String destination = System.getProperty("user.dir") + "/screenshots/screenshot" + result.getName() + ".png";
         try {
             // Copy the screenshot to the destination path
             FileUtils.copyFile(screenshot, new File(destination));
             System.out.println("Screenshot saved to: " + destination);
+            extentTest.get().log(Status.FAIL, result.getName() + "failed");
+            extentTest.get().addScreenCaptureFromPath(destination);
         } catch (Exception e) {
             e.getMessage();
         }
