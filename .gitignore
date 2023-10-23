@@ -31,8 +31,16 @@ build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 
+
 ### VS Code ###
 .vscode/
 
 ### Mac OS ###
 .DS_Store
+/test-output/
+.log
+.html
+/logs/
+/ExtentReports/
+/screenshots/
+.idea/workspace.xml
